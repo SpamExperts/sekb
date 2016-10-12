@@ -15,8 +15,7 @@ To do so, go to: **Domain Control Panel > Archiving > Status** and click
 **Enable**.
 
 For more information on how to use **email archiving for outbound
-traffic**, see `Getting started with
-outgoing <https://my.spamexperts.com/knowledgebase.php?action=displayarticle&id=74>`__.
+traffic**, see :ref:`Getting started with outgoing <5-Getting-started-with-the-outgoing-filtering>`.
 
 Set up archiving on Local Cloud
 -------------------------------

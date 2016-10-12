@@ -32,8 +32,7 @@ Outlook add-on
 
 For .msg format you can use the free "Outlook Email client add-on" to
 report spam which was not correctly blocked by our systems.  More
-information about these can be found
-`here. <https://my.spamexperts.com/knowledgebase.php?action=displayarticle&id=78>`__
+information about these can be found :ref:`here. <4-Outlook-Email-Addon>`
 
 Thunderbird add-on
 ~~~~~~~~~~~~~~~~~~

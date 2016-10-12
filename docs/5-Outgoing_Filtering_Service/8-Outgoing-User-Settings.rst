@@ -4,9 +4,7 @@ Outgoing User Settings
 ======================
 
 Here you can configure the settings of the outgoing user. The image
-below represents a user for a specifc domain. If you wish to see how to
-setup an IP address for an outgoing user please see
-`here. <https://my.spamexperts.com/knowledgebase.php?action=displayarticle&id=131>`__
+below represents a user for a specifc domain.
 
 .. figure:: https://my.spamexperts.com/images/kb/outgoingusersettings.png
    :alt: 
