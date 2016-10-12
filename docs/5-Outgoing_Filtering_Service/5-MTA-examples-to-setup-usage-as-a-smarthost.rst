@@ -14,8 +14,7 @@ make **SMARTHOST** something like "outgoing.yourprovidername.com"
 containing all the outgoing IPs of your filterservers. In case you use
 our Hosted Cloud product you should contact support for the correct
 smarthost hostname. Information on the trial Hostname for Hosted Cloud
-users can be found
-`here <https://my.spamexperts.com/kb/74/Get-started-with-the-Outgoing-Filter.html>`__
+users can be found :ref:`here <5-Get-started-with-the-outgoing-filtering>`
 
 *All suggested commands/setups mentioned on this page are at your own
 risk!*

@@ -56,7 +56,7 @@ point to the Local Cloud solution. See more information on :ref:`Local Cloud MX 
 
 For a full list of explanations for all control panel features at all
 user levels, please see our SpamPanel Documentation manuals
-`here <https://my.spamexperts.com/kb/44/SpamPanel-documentation>`__.
+:ref:`here <8-Control_Panel_Documentation>`.
 
 The system will automatically start learning/adjusting to the new
 incoming email traffic. Read more on how this process works

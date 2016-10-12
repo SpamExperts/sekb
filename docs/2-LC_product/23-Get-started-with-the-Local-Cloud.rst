@@ -89,8 +89,8 @@ is straightforward, even if you are not familiar with Linux or Debian.
 In such case, you might want to use our Debian Install Instructions.
 
 We advise that you connect to the server using SSH keys without using
-password authentication. See the `Debian installations
-instructions <https://my.spamexperts.com/kb/34/Set-up-my-dedicated-server-for-SpamExperts.html>`__
+password authentication. See the
+:ref:`Debian installations instructions <2-Set-up-my-Local-Cloud-servers-for-SpamExperts>`
 for more information.
 
 Password Authentication

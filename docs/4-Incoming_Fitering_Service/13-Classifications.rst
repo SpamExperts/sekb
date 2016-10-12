@@ -149,7 +149,7 @@ SPF failure
 This means that the SPF (Sender Policy Framework) has been broken. If
 this is legitimate mail, then this could be due to a forwarding
 construction. Please see our
-`SPF <https://my.spamexperts.com/kb/117/Setup-an-SPF-.html>`__
+:ref:`SPF <5-Setup-a-SPF-record>`
 knowledgebase article for more information.
 
 Pyzor

@@ -11,10 +11,9 @@ To get the free trial, please order it
 
 The free trial includes access to:
 
--  :ref:`Incoming filtering    service  <1-Getting-started-with-the-incoming-filtering>`
--  `Outgoing filtering
-   service <https://my.spamexperts.com/kb/74/Get-started-with-the-Outgoing-Filter.html>`__\ \*
--  :ref:`Email archiving    service  <1-Getting-started-with-email-archiving>`
+-  :ref:`Incoming filtering service  <1-Getting-started-with-the-incoming-filtering>`
+-  :ref:`Outgoing filtering service <5-Get-started-with-the-outgoing-filtering>`
+-  :ref:`Email archiving service  <1-Getting-started-with-email-archiving>`
 
 \_\*please note, the trial for the outgoing service should not be used
 for production email as these are unmonitored and restricted IPs\_

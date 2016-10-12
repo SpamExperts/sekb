@@ -19,7 +19,7 @@ System requirements:
 
 1. Full root/shell access to be able to install the addon
 2. Plesk version 11 or up on Linux (for the Windows version please see
-   `here <https://my.spamexperts.com/kb/471/Odin-Plesk-addon-for-Windows.html>`__)
+   :ref:`here <3-Plesk-addon-for-Windows>`)
 3. Plesk running on the default port (8443)
 4. The SpamExperts Local Cloud or Hosted Cloud product, and either
    administrator or super administrator API credentials

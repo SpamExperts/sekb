@@ -111,9 +111,7 @@ Spampanel:
 POA APS add-on:
 
 -  Add incoming/outgoing/archiving product provisioning to APS, please
-   read the `upgrade
-   nodes <https://my.spamexperts.com/kb/49/Parallels-Automation-addon.html>`__
-   (#13795)
+   read the upgrade nodes (#13795)
 
 Build 50943 (2012-11-01)
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -189,9 +187,8 @@ Spampanel:
 
 Plesk add-on:
 
--  The Plesk for Linux add-on has been fully rewritten. A `public
-   beta <https://my.spamexperts.com/kb/469/Plesk-Addon.html>`__ is now
-   available. (#14439)
+-  The Plesk for Linux add-on has been fully rewritten. A public
+   beta available. (#14439)
 
 Build 50155 (2012-10-04)
 ~~~~~~~~~~~~~~~~~~~~~~~~

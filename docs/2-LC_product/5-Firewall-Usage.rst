@@ -38,9 +38,8 @@ monitor warning/support. Please ensure that the required ports are
 always open to avoid such situations. When using NAT (Network Address
 Translation), which we strongly recommend against, please ensure that
 the source IP address is identical to the external IP of the server and
-not the primary IP of the subnet. See more information on the `Local
-Cloud Installation procedure
-page <https://my.spamexperts.com/kb/34/Set-up-my-dedicated-server-for-SpamExperts.html>`__.
+not the primary IP of the subnet. See more information on the
+:ref:`Local Cloud Installation procedure page <2-Set-up-my-Local-Cloud-servers-for-SpamExperts>`.
 
 Open ports
 ----------
@@ -51,7 +50,7 @@ SMTP welcome banner). For example certain Cisco devices are known to
 interfere with SMTP by either having ESMTP inspection enabled, fixup
 enabled or due to IDS being turned on. All these must be turned off. See
 for more information on this
-`here <https://my.spamexperts.com/kb/130/General-problems-with-specific-routersorfirewallsormailservers.html>`__.
+:ref:`here <7-General-problems-with-specific-RoutersorFirewallsorMail-Servers>`__.
 
 As we have previously mentioned, we will manage the server’s local
 firewall.

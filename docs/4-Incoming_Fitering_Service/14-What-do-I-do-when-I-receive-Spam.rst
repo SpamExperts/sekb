@@ -53,8 +53,8 @@ reasons why this might have occurred:
    still receive spam that was never scanned by our servers.
 -  Somehow the spammer delivered directly to your destination mail
    server, to prevent this we recommend users to configure their
-   firewall/mail server `to only accept messages from our
-   servers <https://my.spamexperts.com/kb/31/Change-my-mailserver-to-only-accept-from-the-filter-systems.html>`__,
+   firewall/mail server :ref:`to only accept messages from our
+   servers <1-Accept-email-only-from-the-Hosted-Cloud-filter-nodes>`,
    to avoid this issue.
 
 **X-SpamExperts-Class: line says "whitelisted"**

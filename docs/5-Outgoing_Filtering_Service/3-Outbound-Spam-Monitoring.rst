@@ -601,7 +601,7 @@ headers.
 
 Information on this and how to set up the ARF reports can be found here:
 
-:ref:`https://my.spamexperts.com/kb/357/Abuse-Reporting-Format-ARF.html  <5-Abuse-Reporting-Format-ARF>`
+:ref:`5-Abuse-Reporting-Format-ARF`
 Many larger companies already process such ARF reports originating from
 external sources such as AOL. You can simply set your administrator
 address to point to your existing ARF parsing infrastructure, so your

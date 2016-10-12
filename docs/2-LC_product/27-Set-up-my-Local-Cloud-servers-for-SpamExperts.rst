@@ -12,9 +12,8 @@ General Setup Requirements
 **HDD**: As processing email involves a lot of small read/writes, we
 recommend fast storage.
 
-**Virtualization**: Servers can be virtual. Check the `Virtualization
-article <https://my.spamexperts.com/kb/138/Virtuozzo-or-OpenVZ-container-virtualization.html>`__
-for more information.
+**Virtualization**: Servers can be virtual. Check the
+:ref:`Virtualization article <2-Virtualization>` for more information.
 
 **Root Access**: For the installation to work smoothly, direct SSH root
 access to the default port (22) is required. No changes should be made

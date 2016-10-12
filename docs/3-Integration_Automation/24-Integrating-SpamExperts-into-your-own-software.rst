@@ -4,8 +4,7 @@ Integrating SpamExperts into your own software
 ==============================================
 
 We offer several pre-built implementations ready to install and
-integrate SpamExperts with `various control
-panels <https://my.spamexperts.com/kb/13/3%20-Integration-and-automation>`__.
+integrate SpamExperts with various control panels.
 If you'd like to implement our solution into your own/proprietary
 application, control panel or any automation on your end you can use the
 following guidelines and implement it in a correct way.

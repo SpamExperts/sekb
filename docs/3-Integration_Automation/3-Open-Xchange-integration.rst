@@ -43,7 +43,7 @@ Control Panel.
 
 For a description of the options available on the SpamExperts Control
 Panel, please see our detailed knowledgebase articles
-`here <https://my.spamexperts.com/kb/44/SpamPanel-documentation>`__.
+:ref:`here <8-Control_Panel_Documentation>`.
 
 Setting up IMAP folders
 -----------------------

@@ -1517,7 +1517,7 @@ SpamPanel:
 Addons:
 
 -  P.O.A 2.0 - Initial Stable Release
-   `here <https://my.spamexperts.com/kb/742/Aps-20.html>`__
+   :ref:`here <3-Odin-Automation-APS-20-addon>`
 
 Build 77754 (2015-02-24)
 ~~~~~~~~~~~~~~~~~~~~~~~~

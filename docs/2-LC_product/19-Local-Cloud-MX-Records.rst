@@ -109,7 +109,7 @@ emails are filtered through the SpamExperts Local Cloud Solution. Note
 that spammers sometimes send spam to the old A records, thus we
 recommend customers to only accept emails from the SpamExperts servers,
 for more information see the following
-`article <https://my.spamexperts.com/kb/31/Change-my-mailserver-to-only-accept-from-the-filter-systems.html>`__.
+:ref:`article <1-Accept-email-only-from-the-Hosted-Cloud-filter-nodes>`.
 
 Be advised that DNS changes may take some time before they are resolved,
 therefore emails may be delivered to the original MX records for 24

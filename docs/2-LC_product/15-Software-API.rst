@@ -26,8 +26,8 @@ location.
 
 Be advised that the API described on this page (Software API) is only
 available on our Local Cloud product. For the Hosted Cloud/Control Panel
-API please refer to the `Control Panel API
-documentation <https://my.spamexperts.com/kb/142/Using-the-Hosted-Cloud-%20API.html>`__.
+API please refer to the
+:ref:`Control Panel API documentation <1-SpamExperts-Control-Panel-API>`.
 
 Example calls
 -------------

@@ -75,8 +75,8 @@ Single-sign-on alternatives
 -  We have a feature to automatically enable our reporting and send a
    welcome email with the required login details to new recipients. When
    enabling this option it will automatically add all the filtered
-   domain users to the '`Periodic user
-   report <https://my.spamexperts.com/kb/111/Periodic-user-based-protection-Reports.html>`__\ '
+   domain users to the
+   :ref:`Periodic user report <1-Periodic-based-Protection-Reports>`'
    page, and then once added, send them a daily or weekly digest on the
    spam received. It also will send the end user a welcome email once
    the first spam message has been seen to let them know their personal

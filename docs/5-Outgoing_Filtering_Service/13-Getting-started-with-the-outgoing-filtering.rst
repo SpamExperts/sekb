@@ -178,7 +178,7 @@ Configuring your MTA
 
 Configuring your MTA should be very simple. We have mutiple examples per
 MTA which can be found
-`here. <https://my.spamexperts.com/kb/40/MTA-examples-to-set-use-a-smarthost.html>`__
+:ref:`here. <5-MTA-examples-to-setup-usage-as-a-smarthost>`
 
 Some mailservers are more versatile than others, so depending on what
 systems you are using configuration options can be (very) limited.

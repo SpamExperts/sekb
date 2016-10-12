@@ -17,7 +17,7 @@ The optimal procedure to protect a cPanel server is the following:
 
 -  For Local Cloud: Exim Configuration Manager > Basic Editor > Access
    Lists > "Only-Verify-Recipient"
--  For Hosted Cloud: :ref:`Ensure proper delivery from the filtering    servers  <7-Ensure-proper-delivery-to-my-destination-server>`
+-  For Hosted Cloud: :ref:`Ensure proper delivery from the filtering servers  <7-Ensure-proper-delivery-to-my-destination-server>`
 
 -  Run **bulk protect** from add-on in WHM
 -  Restart Bind:
@@ -27,8 +27,8 @@ The optimal procedure to protect a cPanel server is the following:
 
        /etc/init.d/named restart
 
--  For outbound filtering: Set `outbound
-   smarthost <https://my.spamexperts.com/kb/40/Using-outgoing-as-a-smarthost.html#heading_toc_j_9>`__
+-  For outbound filtering: Set
+   :ref:`outbound smarthost <5-MTA-examples-to-setup-usage-as-a-smarthost>`
    details
 
 Installing the addon

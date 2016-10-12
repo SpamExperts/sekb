@@ -1,3 +1,5 @@
+.. _8-Control_Panel_Documentation:
+
 
 Control Panel Documentation
 ===========================
