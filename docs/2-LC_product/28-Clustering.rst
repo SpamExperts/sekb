@@ -43,8 +43,7 @@ email (highest MX priority) is made automatically based on the IP
 address used. Each server can be used only as primary server, only as
 fallback server, or (with 2 IPs) both as primary server and fallback
 server at the same time. **This last setup ensures optimal use of the
-hardware resources available. For more information see `Local Cloud MX
-Records <https://my.spamexperts.com/kb/753/Local-Cloud-MX-Records.html>`__.**
+hardware resources available. For more information see :ref:`Local Cloud MX Records  <2-Local-Cloud-MX-Records>`.**
 
 IP address change
 =================

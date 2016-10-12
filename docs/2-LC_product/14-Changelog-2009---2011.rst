@@ -79,7 +79,7 @@ Build 42703 (2011-11-24)
 -  cPanel add-on: We plan to release the new version 3 as automatic
    stable version update on December 12. For manual upgrade instructions
    please carefully read
-   the \ `KB <https://my.spamexperts.com/kb/133/Cpanel-addon.html>`__.
+   the \ :ref:`KB  <3-cPanel-addon>`.
 
 Build 42562 (2011-11-17)
 ~~~~~~~~~~~~~~~~~~~~~~~~

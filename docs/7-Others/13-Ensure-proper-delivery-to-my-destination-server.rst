@@ -49,7 +49,7 @@ when using:
 
 -  For Hosted Cloud: Our delivery nodes should be able to connect to
    your server
-   (see`this <https://my.spamexperts.com/kb/31/Accept-email-only-from-the-Hosted-Cloud-filter-nodes.html>`__
+   (see:ref:`this  <1-Accept-email-only-from-the-Hosted-Cloud-filter-nodes>`
    article)
 -  Your Receiver Connector should have the "Permission Group" of
    "Anonymous users" allowed to relay.
@@ -186,8 +186,7 @@ Kerio Connect
   spamfiltering, SPF checking and the Spam Repellant.
 
 More information on this script can be found on the Kerio Section of our
-page on how to `Accept email only from the Hosted
-Cloud <https://my.spamexperts.com/kb/31/Accept-email-only-from-the-Hosted-Cloud-filter-nodes.html>`__
+page on how to :ref:`Accept email only from the Hosted Cloud  <1-Accept-email-only-from-the-Hosted-Cloud-filter-nodes>`
 
 DirectAdmin
 ~~~~~~~~~~~

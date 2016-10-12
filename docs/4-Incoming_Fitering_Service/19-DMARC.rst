@@ -9,9 +9,9 @@ What is DMARC
 DMARC (Domain-based Message Authentication, Reporting & Conformance) is
 an email protocol designed to help prevent email spoofing when used in
 conjunction with
-`SPF <https://my.spamexperts.com/kb/117/Setup-a-SPF-%20record.html>`__
+:ref:`SPF  <5-Setup-a-SPF-record>`
 and/or
-`DKIM <https://my.spamexperts.com/kb/33/Generate-DKIM-%20certificate.html>`__
+:ref:`DKIM  <5-Generate-DKIM-certificate>`
 and gives sending domain administrators the ability to act on messages
 when the criteria is not met. DMARC also provides the tools for senders
 to monitor the abuse of their domains.

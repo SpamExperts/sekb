@@ -15,7 +15,7 @@ setup an IP address for an outgoing user please see
    lock features.
 -  **Identification method -** Here you can set the outgoing identification
    method you wish to use. More information can be found
-   `here <https://my.spamexperts.com/kb/731/Outbound-Spam-Monitoring.html>`__
+   :ref:`here  <5-Outbound-Spam-Monitoring>`
 -  **User lock timeout -** Adjustable setting to change the user lock
    timeout.
 -  **Maximum unlocks by timeout -** Adjustable setting to change the

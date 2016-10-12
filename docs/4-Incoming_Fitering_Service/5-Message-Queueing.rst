@@ -99,8 +99,7 @@ the issue:
    just be 1 route)
 2. Check the logs on your destination server to investigate why it's not
    accepting the delivery attempts
-3. Run a `telnet
-   test <https://my.spamexperts.com/kb/19/Test-my-server-is-correctly-accepting-mail.html>`__
+3. Run a :ref:`telnet    test  <4-Test-my-server-is-correctly-accepting-mail>`
    to check the response of your destination mailserver
 4. If after following these steps you still have an issue, please
    contact SpamExperts support providing a sample sender/recipient/date

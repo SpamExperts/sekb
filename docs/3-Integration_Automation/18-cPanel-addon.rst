@@ -17,8 +17,7 @@ The optimal procedure to protect a cPanel server is the following:
 
 -  For Local Cloud: Exim Configuration Manager > Basic Editor > Access
    Lists > "Only-Verify-Recipient"
--  For Hosted Cloud: `Ensure proper delivery from the filtering
-   servers <https://my.spamexperts.com/kb/341/Ensure-proper-delivery-to-my-destination-server.html>`__
+-  For Hosted Cloud: :ref:`Ensure proper delivery from the filtering    servers  <7-Ensure-proper-delivery-to-my-destination-server>`
 
 -  Run **bulk protect** from add-on in WHM
 -  Restart Bind:
@@ -135,8 +134,7 @@ suit your needs.
 On mouseover a tooltip with the option description will be displayed.
 
 Be Advised: If you want to use this addon on our Hosted Cloud there are
-some `additional
-steps <https://my.spamexperts.com/kb/145/Using-addons-on-the-Hosted-Cloud.html>`__
+some :ref:`additional steps  <1-Using-addons-on-the-Hosted-Cloud>`
 required.
 
 .. figure:: https://dev.spamexperts.com/sites/default/files/pictures/cpanel_image04.png

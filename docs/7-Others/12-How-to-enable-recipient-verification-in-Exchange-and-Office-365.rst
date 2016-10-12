@@ -113,8 +113,7 @@ Exchange 2013
 
 In Exchange 2013 Microsoft has changed the way it handles recipient
 callouts, by doing this check post DATA. This means even if the
-recipient validation is enabled on the mail server, any `recipient
-callout <https://my.spamexperts.com/kb/26/Recipient-Callouts.html>`__
+recipient validation is enabled on the mail server, any :ref:`recipient callout  <4-Recipient-Callouts>`
 responds with a **"250 OK"** response for invalid recipients, therefore
 leaving us with no valid way of checking if the recipient is valid or
 not.

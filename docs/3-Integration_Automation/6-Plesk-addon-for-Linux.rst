@@ -105,8 +105,7 @@ If you hover over an option, it will show you a tooltip describing the
 option and what it entails.
 
 Please note: If you want to use this addon on our Hosted Cloud there are
-some `additional
-steps <https://my.spamexperts.com/kb/145/Using-addons-on-the-Hosted-Cloud.html>`__
+some :ref:`additional steps  <1-Using-addons-on-the-Hosted-Cloud>`
 required.
 
 .. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-linux-4.png
@@ -252,8 +251,7 @@ TTL to use for MX records
 
 You can select which TTL the addon should use when creating MX records
 for the domain it is protecting. Having this set low beforehand will
-minimize propagation delays. For more information see `Local Cloud MX
-Records <https://my.spamexperts.com/kb/753/Local-Cloud-MX-Records.html>`__.
+minimize propagation delays. For more information see :ref:`Local Cloud MX Records  <2-Local-Cloud-MX-Records>`.
 
 Branding
 --------

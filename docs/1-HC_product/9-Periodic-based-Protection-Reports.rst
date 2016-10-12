@@ -69,13 +69,11 @@ to log directly into the interface (or via IMAP) and to access their own
 log search and manage quarantined messages.
 
 Please note: If your domain has
-"`Catch-All <https://my.spamexperts.com/kb/44/Bounce-spam-protection-DSNsorNDRs.html#heading_toc_j_1>`__\ "
+":ref:`Catch-All  <4-Bounce-spam-protection-DSNsorNDRs>`\ "
 enabled, then this option will not be available to be enabled from the
 interface, as this will cause many entries for non-existing users. If
 Catch-all is disabled on your destination mailserver, but our system
-detects it is still enabled, please see our article here - `Whitelist
-Delivery Servers
-section <https://my.spamexperts.com/kb/341/Ensure-proper-delivery-to-my-destination-server.html>`__
+detects it is still enabled, please see our article here - :ref:`Whitelist Delivery Servers section  <7-Ensure-proper-delivery-to-my-destination-server>`
 
 If you are unable to disable the "**Catch-All**\ " configuration on your
 destination mail server for any reason, it is still be possible to

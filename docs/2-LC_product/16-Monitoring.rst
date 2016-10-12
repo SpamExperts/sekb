@@ -79,7 +79,7 @@ Using Nagios
 
 It's possible to monitor your SpamExperts systems directly via a Nagios
 monitoring system. Read more about our open-source script available
-`here <https://my.spamexperts.com/kb/685/Nagios-Plugin-Script.html>`__.
+:ref:`here  <3-Nagios-Plugin-Script>`.
 
 Monitoring your servers via the Software API
 ============================================

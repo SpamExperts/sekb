@@ -115,6 +115,5 @@ Be advised that DNS changes may take some time before they are resolved,
 therefore emails may be delivered to the original MX records for 24
 hours.
 
-You can check using the SpamExperts log search or within the `email
-headers <https://my.spamexperts.com/kb/18/View-email-headers.html>`__ if
+You can check using the SpamExperts log search or within the :ref:`email headers  <4-View-email-headers>` if
 the message has actually passed through the SpamExperts filtering nodes.

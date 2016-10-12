@@ -12,8 +12,7 @@ System requirements
 
 -  A SpamExperts Local Cloud appliance; or
 -  A SpamExperts Hosted Cloud account with the Super Administrator API
-   activated (`Requires
-   action <https://my.spamexperts.com/kb/145/Using-addons-on-the-Hosted-Cloud.html>`__).
+   activated (:ref:`Requires    action  <1-Using-addons-on-the-Hosted-Cloud>`).
 -  A ISPManager Pro server and admin access
 
 Installation

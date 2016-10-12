@@ -11,7 +11,7 @@ downloaded from
 `here. <http://download.seinternal.com/integration/files/whmcs/latest.tar.gz>`__
 
 Hosted Cloud users can see
-`here <https://my.spamexperts.com/kb/145/Using-%20addons-on-the-Hosted-Cloud.html>`__
+:ref:`here  <1-Using-addons-on-the-Hosted-Cloud>`
 for information on authenticating to the platform.
 
 Features

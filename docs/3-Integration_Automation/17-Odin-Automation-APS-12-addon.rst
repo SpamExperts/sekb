@@ -499,9 +499,7 @@ details in your email:
 Update to APS 2.0
 -----------------
 
-If you want to upgrade to APS 2.0 please follow our guide from the `APS
-2.0 Knowledgebase
-article <https://my.spamexperts.com/kb/742/Odin-Automation-APS-20-addon.html>`__.
+If you want to upgrade to APS 2.0 please follow our guide from the :ref:`APS 2.0 Knowledgebase article  <3-Odin-Automation-APS-20-addon>`.
 
 Usage Terms
 -----------

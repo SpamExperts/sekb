@@ -26,8 +26,7 @@ servers. If you nevertheless still wish to run an external firewall
 besides the firewall we manage for you on the systems, a list of ports
 that require to be open is available below. Please do note that between
 version updates the required open ports may change, this will then be
-shown in the `Dedicated
-Changelog <https://my.spamexperts.com/kb/51/Changelog.html>`__. In case
+shown in the :ref:`Dedicated Changelog  <1-Changelog>`. In case
 the newly ports are not available within 5 working days, our software
 may break and would be unsupported until the external issue is resolved.
 

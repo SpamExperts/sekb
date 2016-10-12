@@ -69,4 +69,4 @@ Using this addon on the Hosted Cloud
   via SpamExperts support.
 | Further instructions about configuring and enabling of the API on the
   Hosted Cloud can be
-  found \ `here <https://my.spamexperts.com/kb/145/Using-addons-on-the-Hosted-Cloud.html>`__.
+  found \ :ref:`here  <1-Using-addons-on-the-Hosted-Cloud>`.

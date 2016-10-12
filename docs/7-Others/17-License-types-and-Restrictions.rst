@@ -58,4 +58,4 @@ Reselling our services and growing revenue together is the core
 objective under this license.
 
 For more information on reselling SpamExperts services please see
-`here <https://my.spamexperts.com/kb/737/Reselling-SpamExperts-Services.html>`__
+:ref:`here  <7-Reselling-SpamExperts-Services>`

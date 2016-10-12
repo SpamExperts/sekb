@@ -189,8 +189,7 @@ TTL to use for MX records
 
 You can select which TTL the addon should use when creating MX records
 for the domain it is protecting. We advise users to set a lower TTL,
-such as 60 seconds. For more information see `Local Cloud MX
-Records <https://my.spamexperts.com/kb/753/Local-Cloud-MX-Records.html>`__.
+such as 60 seconds. For more information see :ref:`Local Cloud MX Records  <2-Local-Cloud-MX-Records>`.
 
 Branding
 ========

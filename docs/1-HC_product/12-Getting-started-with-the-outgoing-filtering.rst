@@ -43,9 +43,8 @@ Creating the outgoing user
 6. Edit the Outgoing user settings. Here you can configure the limits,
    Identification header, and various other settings. More information
    can be found
-   `here <https://my.spamexperts.com/kb/126/Outgoing-User-Settings.html>`__.
-   We would strongly recommend that an\ `Identity
-   header <https://my.spamexperts.com/kb/731/Outbound-Spam-Monitoring.html>`__
+   :ref:`here  <5-Outgoing-User-Settings>`.
+   We would strongly recommend that an\ :ref:`Identity    header  <5-Outbound-Spam-Monitoring>`
    is set for all outgoing traffic. This makes monitoring and taking
    action against spammers much easier.
 7. Click save
@@ -66,13 +65,12 @@ that has no inbound filtering, and not a "freemail" address as these can
 often cause problems in receiving the reports.
 
 More information on the ARF reports can be found
-`here <https://my.spamexperts.com/kb/357/Abuse-Reporting-Format-ARF.html>`__.
+:ref:`here  <5-Abuse-Reporting-Format-ARF>`.
 
 It's also possible to use other methods of monitoring the outbound spam,
 if using ARF reports is not possible. For example you may use using
 API's, CSV reports and/or IMAP. Full details on the options can be found
-in the following article - `Abuse Reporting Format
-(ARF) <https://my.spamexperts.com/kb/357%20/Abuse-Reporting-Format-ARF.html>`__.
+in the following article - :ref:`Abuse Reporting Format (ARF)  <5-Abuse-Reporting-Format-ARF>`.
 
 Please do ensure that when spammers are reported in your network, either
 via ARF reports or other means, that these problem sources (senders,
@@ -87,7 +85,7 @@ outbound delivery IP's for your senders. To be able to do this you will
 need at least 2 IPs per server. This is often very useful if you want to
 seperate out your traffic for senders. Instructions on how to do this
 can be found on our Delivery IP management page
-`here <https://my.spamexperts.com/kb/441/Delivery-IP-%20management.html>`__.
+:ref:`here  <2-Delivery-IP-management>`.
 
 Configuring your domains
 ------------------------
@@ -98,13 +96,12 @@ Setting up SPF
 Hosted Cloud users
 ^^^^^^^^^^^^^^^^^^
 
--  Trial Users: Please see our `SPF page.\*\*
-   \*\* <https://my.spamexperts.com/kb/117/Setup-a-SPF-record.html>`__
+-  Trial Users: Please see our :ref:`SPF page.\*\*    \*\*  <5-Setup-a-SPF-record>`
 -  Licensed Users: Please contact **support@spamexperts.com** for your
    custom SPF (and SMTP) hostname.
 
 More information on SPF records can be found
-`here <%20https://my.spamexperts.com/kb/117/Setup-a-SPF-record.html>`__
+:ref:`here  <5-Setup-a-SPF-record>`
 
 Local Cloud users
 ^^^^^^^^^^^^^^^^^
@@ -141,7 +138,7 @@ sign with DKIM, however it often helps to "authenticate" as much as
 possible your senders.
 
 Information on how to setup DKIM with SpamExperts can be
-found\ `here. <https://my.spamexperts.com/kb/33/Generate-DKIM-certificate.html>`__
+found\ :ref:`here.  <5-Generate-DKIM-certificate>`
 
 Setting up your SMTP hostname
 -----------------------------
@@ -228,5 +225,5 @@ Counting Outgoing sending domains
 Often when using IP authentication, it's good to see how many outgoing
 user domains your clients are sending from. It's possible to check and
 count these via the interface. Please see
-`here <https://my.spamexperts.com/kb/744/How-to-%20count-usersordomains-from-SpamPanel.html>`__
+:ref:`here  <7-How-to-count-usersordomains-from-SpamPanel>`
 on steps to do this.

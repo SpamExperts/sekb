@@ -41,14 +41,14 @@ Thunderbird add-on
 If you're using Thunderbird you can also use the free "*Mozilla
 Thunderbird* client addon" to report spam. More information about this
 addon can be found
-`here. <https://my.spamexperts.com/kb/140/Mozilla-Thunderbird-Addon.html>`__
+:ref:`here.  <4-Mozilla-Thunderbird-Addon>`
 
 MailApp Apple OSX
 ~~~~~~~~~~~~~~~~~
 
 If you're using Mail.app for Apple OSX you can also use the following
 tool to report spam. More information about this addon can be found
-`here. <https://my.spamexperts.com/kb/147/Mailapp-Report-Spam-Tool---Apple-OSX.html>`__
+:ref:`here.  <4-Mailapp-Report-Spam-Tool---Apple-OSX>`
 
 Email forward as attachment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -64,20 +64,20 @@ IMAP
 
 It's possible to report spam via our special IMAP system. We have
 instructions for
-`Thunderbird <https://my.spamexperts.com/kb/28/Configure-Thunderbird-to-access-the-IMAP-quarantine.html>`__
+:ref:`Thunderbird  <1-Configure-Thunderbird-to-access-the-IMAP-quarantine>`
 and
-`Outlook <https://my.spamexperts.com/kb/88/Configure-Outlook-to-access-the-IMAP-quarantine.html>`__.
+:ref:`Outlook  <4-Configure-Outlook-to-access-the-IMAP-quarantine>`.
 
 Web Browser
 ~~~~~~~~~~~
 
 You can report spam via your web browser. All instructions are detailed
 in this
-`article <https://my.spamexperts.com/kb/750/Reporting-Spam-via-your-Browser.html>`__.
+:ref:`article  <1-Reporting-Spam-via-your-Browser>`.
 
 RoundCube Webmail
 ~~~~~~~~~~~~~~~~~
 
 If you are using the RoundCube webmail service, you can report spam by
 following the instructions detailed in this
-`article <https://my.spamexperts.com/kb/760/RoundCube-Integration-with-SpamExperts.html>`__.
+:ref:`article  <3-RoundCube-Integration-with-SpamExperts>`.

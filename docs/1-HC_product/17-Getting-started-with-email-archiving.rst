@@ -29,5 +29,4 @@ administrator\*\*.
 2. Go to\*\* Archive > Settings\*\*
 3. Select the node(s) for storage use\*\*
 
-**Nodes can only be set once via SpamPanel - See `Archive Storage
-Options <https://my.spamexperts.com/kb/399/Archive-storage-options.html>`__**
+**Nodes can only be set once via SpamPanel - See :ref:`Archive Storage Options  <2-Archive-storage-options>`**

@@ -23,7 +23,7 @@ Greylisted
 ~~~~~~~~~~
 
 Temporary rejection due to
-`greylisting <https://my.spamexperts.com/kb/66/Greylisting.html>`__.
+:ref:`greylisting  <4-Greylisting>`.
 This technology is only applied to new IP addresses which do not have a
 (good) reputation yet in our global systems. We do **not** apply
 "**classical greylisting**\ " so this should not cause any delays on

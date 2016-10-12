@@ -33,7 +33,7 @@ of the OS / software (except for the networking settings).
 
 **Load Balancing**: Round Robin DNS setup is recommended, for more
 information check the following
-`article <https://my.spamexperts.com/kb/753/Local-Cloud-MX-Records.html>`__.
+:ref:`article  <2-Local-Cloud-MX-Records>`.
 
 **Recommendations**
 
@@ -64,8 +64,7 @@ The minimum requirements are as follows:
 Network Requirements
 ~~~~~~~~~~~~~~~~~~~~
 
--  A non-firewalled internet connection (or all `required
-   ports <https://my.spamexperts.com/kb/37/Firewall-Usage.html>`__
+-  A non-firewalled internet connection (or all :ref:`required    ports  <2-Firewall-Usage>`
    opened)
 -  Each servername must resolve to one IPv4 (the primary server IP), and
    optionally in addition 1 IPv6 address (the primary server IPv6)

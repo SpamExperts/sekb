@@ -52,9 +52,9 @@ IMAP access
 | Users on a SpamExperts Local Cloud can use the hostname of the primary
   server in that cluster (or a CNAME associated with it). We have
   instructions available for
-  `Thunderbird <https://my.spamexperts.com/kb/28/Configure-Thunderbird-to-access-the-IMAP-quarantine.html>`__
+  :ref:`Thunderbird  <1-Configure-Thunderbird-to-access-the-IMAP-quarantine>`
   and
-  `Outlook <https://my.spamexperts.com/kb/88/Configure-Outlook-to-access-the-IMAP-quarantine.html>`__.
+  :ref:`Outlook  <4-Configure-Outlook-to-access-the-IMAP-quarantine>`.
   Using IMAP you can also apply mass actions to specific emails by
   dragging to specific folders.
 

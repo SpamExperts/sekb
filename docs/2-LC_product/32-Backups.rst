@@ -5,7 +5,7 @@ Backups
 
 The SpamExperts email filtering service is fully redundant. For more
 information, see our
-`clustering <https://my.spamexperts.com/kb/69/Clustering.html>`__
+:ref:`clustering  <2-Clustering>`
 article.
 
 To avoid data loss, the following information should be stored on

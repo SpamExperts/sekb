@@ -12,7 +12,7 @@ need to ensure the following steps have been covered:
 1. **Trial** - The trial step is purely optional. Once you register for
    the Local Cloud trial, you don’t have to register again for
    installation. See more information about starting a Local Cloud trial
-   `here <https://my.spamexperts.com/kb/75/Start-a-Trial-with-Local-Cloud.html>`__.
+   :ref:`here  <2-Start-a-Trial-with-Local-Cloud>`.
 2. **Register** - You have to create a SpamExperts account in order to
    place your order and proceed to the next steps. Click
    `here <https://my.spamexperts.com/register.php>`__ to Register. This
@@ -63,12 +63,11 @@ In all cases, the **minimum** requirements are as following:
 -  Installation on a single partition (no separate partitions for /home
    etc)
 -  A non-firewalled internet connection or required ports
-   `opened <https://my.spamexperts.com/kb/37/Firewall-Usage.html>`__
+   :ref:`opened  <2-Firewall-Usage>`
 -  No modification (in case of virtualization) of
    **/etc/network/interfaces**, **/etc/hosts**, **/etc/hostname**,
    **/etc/resolv.conf** after our setup. See more information on the
-   `Virtualization KB
-   article <https://my.spamexperts.com/kb/138/Virtualization.html>`__.
+   :ref:`Virtualization KB    article  <2-Virtualization>`.
 
 If you run a larger cluster, it might be desirable to either run the
 solution on more servers or make sure the hardware specifications are

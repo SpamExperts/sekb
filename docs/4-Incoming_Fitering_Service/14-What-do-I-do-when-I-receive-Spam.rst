@@ -112,8 +112,7 @@ overview, from the drop down menu beside each domain:
 Still receiving spam?\*\*
 
 It is also possible that our system simply did not detect the spam
-message correctly. If this occurs, please `report the message to our
-systems <https://my.spamexperts.com/kb/77/Report-Spam.html>`__ as spam,
+message correctly. If this occurs, please :ref:`report the message to our systems  <4-Report-Spam>` as spam,
 so we can further train and improve our filtering technologies. All
 reported messages are automatically processed centrally.
 
@@ -133,9 +132,7 @@ Finally, please make sure that the messages you report as spam are
 indeed spam. We do not consider messages from senders that you have
 subscribed to in the past, as spam, since they offer an unsubscribe
 option. You should unsubscribe from such mailings instead, if they are
-no longer desired. For more information check out our `how do I
-quarantine and train
-emails <https://my.spamexperts.com/kb/80/Spam-Quarantine-weborIMAP.html>`__
+no longer desired. For more information check out our :ref:`how do I quarantine and train emails  <4-Spam-Quarantine-weborIMAP>`
 article.
 
 .. |image0| image:: /_static/images/whatdoIdowhenreceivingspam.png

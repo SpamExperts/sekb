@@ -54,11 +54,10 @@ Catchall domains
 SPF / DKIM
 ~~~~~~~~~~
 
-By setting a `SPF
-record <https://my.spamexperts.com/kb/117/Setup-a-SPF-record.html>`__
+By setting a :ref:`SPF record  <5-Setup-a-SPF-record>`
 for your domain, you reduce the attractiveness for spammers to use your
 domain for sending out email. Also signing your emails with a
-`DKIM <https://my.spamexperts.com/kb/33/Generate-DKIM-certificate.html>`__
+:ref:`DKIM  <5-Generate-DKIM-certificate>`
 certificate should further reduce the attractiveness to spoof your
 domain name for outgoing spam.
 

@@ -16,7 +16,7 @@ capacity for a redundant environment. Estimating hardware requirements
 can be difficult due to differences in email patterns across
 countries/companies. For more information on the actual setup structure,
 please see
-`Clustering <https://my.spamexperts.com/kb/69/Clustering.html>`__.
+:ref:`Clustering  <2-Clustering>`.
 
 With hardware there is always a bottleneck: CPU, memory, or disk IO. We
 generally noticed that fast disks (SAS/SSD) greatly improve the

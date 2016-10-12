@@ -57,7 +57,7 @@ To disable LDAP authentication just delete the server hostname and port
 from the Manage Email Users page and click Save.
 
 SpamExperts Also provides an easy to use
-`single-sign-on <https://my.spamexperts.com/kb/440/Integrating-SpamExperts-into-your-own-software.html>`__
+:ref:`single-sign-on  <3-Integrating-SpamExperts-into-your-own-software>`
 system which can be integrated in most environments to ensure your
 clients do not need to login at different control panels. The "one click
 login" system can for example be integrated with your LDAP user base to
@@ -89,8 +89,7 @@ LDAP user verification
 ~~~~~~~~~~~~~~~~~~~~~~
 
 To prevent the requirement for data duplication, SpamExperts uses
-advanced SMTP-based `recipient verification
-calls <https://my.spamexperts.com/kb/26/Recipient-Callouts.html>`__.
+advanced SMTP-based :ref:`recipient verification calls  <4-Recipient-Callouts>`.
 Your SMTP server will handle the local LDAP lookup, to ensure our system
 will always properly handle the email for your mailboxes. We include
 advanced dictionary attack handling to protect your SMTP and LDAP server

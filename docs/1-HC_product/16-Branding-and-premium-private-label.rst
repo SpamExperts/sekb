@@ -99,8 +99,7 @@ use A records.
 
 In case you wish to be flexible with your IP addresses, it's also
 possible to define NS records similar to what we did for our Hosted
-Cloud (see the `Hosted Cloud MX
-record <https://my.spamexperts.com/kb/109/Hosted-Cloud-MX-%20records.html>`__
+Cloud (see the :ref:`Hosted Cloud MX record  <1-Hosted-Cloud-MX-records>`
 documentation).
 
 Custom Spampanel login URL

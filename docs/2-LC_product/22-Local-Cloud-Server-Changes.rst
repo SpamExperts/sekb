@@ -36,8 +36,7 @@ our central networks. There is no fee charged for such change. Please do
 ensure the new primary IP address has the PTR set correctly to the
 server hostname, to prevent any issues.
 
-Read more on `changing the primary IP address and server
-moves <https://my.spamexperts.com/kb/127/Server-moves-and-IP-changes.html>`__.
+Read more on :ref:`changing the primary IP address and server moves  <2-Server-moves-and-IP-changes>`.
 
 Changing hostnames
 ==================

@@ -34,6 +34,5 @@ DNS changes may take some time before they are picked up by the DNS
 resolvers world-wide, so email may continue to deliver directly to the
 original MX records without filtering for 24 hours.
 
-You can check using the SpamExperts log search or within the `email
-headers <https://my.spamexperts.com/kb/18/View-email-headers.html>`__ if
+You can check using the SpamExperts log search or within the :ref:`email headers  <4-View-email-headers>` if
 the message has passed through the SpamExperts filtering nodes.

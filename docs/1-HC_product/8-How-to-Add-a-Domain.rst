@@ -25,8 +25,7 @@ Hosted Cloud
 
 After setting the destination route, you need to modify your **MX
 Records** in your domain **DNS Settings**, in order to point to the
-SpamExperts routes. See our article on changing your `MX
-Records <https://my.spamexperts.com/kb/109%20/Hosted-Cloud-MX-records.html>`__.
+SpamExperts routes. See our article on changing your :ref:`MX Records  <1-Hosted-Cloud-MX-records>`.
 
 Local Cloud
 -----------
