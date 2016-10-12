@@ -90,5 +90,5 @@ record of the domain, and try a delivery:
 
 --------------
 
-.. |File:CPanel\_mail\_routing.png| image:: https://my.spamexperts.com/images/kb/CPanel_mail_routing.png
+.. |File:CPanel\_mail\_routing.png| image:: /_static/images/CPanel_mail_routing.png
    :target: http://spamexperts.com/wiki/index.php?title=File:CPanel_mail_routing.png%20"File:CPanel_mail_routing.png"

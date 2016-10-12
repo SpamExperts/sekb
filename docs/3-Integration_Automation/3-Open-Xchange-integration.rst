@@ -32,13 +32,13 @@ OpenXchange can provide you with a special SpamExperts 'AntiSpam'
 function which allows one-click-login access to the SpamExperts control
 panel directly from Open-Xchange.
 
-.. figure:: https://my.spamexperts.com/images/kb/oxiconSE.png
+.. figure:: /_static/images/oxiconSE.png
    :alt: 
 
 Clicking this will bring you directly into your configured SpamExperts
 Control Panel.
 
-.. figure:: https://my.spamexperts.com/images/kb/ox4.png
+.. figure:: /_static/images/ox4.png
    :alt: 
 
 For a description of the options available on the SpamExperts Control
@@ -53,7 +53,7 @@ To set up the your SpamExperts IMAP folders, simply follow these steps:
 Create a new account by clicking on the **E-Mail side option**, then
 click on **Accounts** & **New**;
 
-.. figure:: https://my.spamexperts.com/images/kb/addimapox.png
+.. figure:: /_static/images/addimapox.png
    :alt: 
 
 Now add the details of you IMAP in the account settings page.

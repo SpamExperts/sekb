@@ -34,7 +34,7 @@ From the command line run the following command:
 Once the installation has completed, you can configure it through the
 Plesk admin area.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-win-01.png
+.. figure:: /_static/images/plesk-win-01.png
    :alt: 
 
 Configuration:
@@ -47,7 +47,7 @@ settings are enough but can be altered to suit your needs.
 If you hover over an option, it will show you a tooltip describing the
 option and what it entails.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-win-02.png
+.. figure:: /_static/images/plesk-win-02.png
    :alt: 
 
 Configuration items described in detail
@@ -199,7 +199,7 @@ icon to match your own branding. This functionality is only available if
 you have purchased the Private Label (Whitelabel) or Premium Private
 Label (Premium whitelabel).
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-win-03.png
+.. figure:: /_static/images/plesk-win-03.png
    :alt: 
 
 Domain List
@@ -209,7 +209,7 @@ The domain list shows you all the local domains and offers you an option
 to check if it is protected (if they are filtered by SpamExperts) and to
 login to it.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-win-04.png
+.. figure:: /_static/images/plesk-win-04.png
    :alt: 
 
 Clicking **“Check Status”** or **“Check all domains”** will check if the
@@ -222,7 +222,7 @@ Bulkprotect
 The Bulk Protect option allows you to protect all domains on the local
 system.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-win-05.png
+.. figure:: /_static/images/plesk-win-05.png
    :alt: 
 
 Clicking bulk protect will execute the bulk protect system. This may
@@ -237,7 +237,7 @@ Migration
 The migration page allows you change the username user and re-assign all
 domains to that user (in case the destination user is an administrator):
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-win-06.png
+.. figure:: /_static/images/plesk-win-06.png
    :alt: 
 
 The migration process requires you to enter the new username and
@@ -262,7 +262,7 @@ The addon can auto-update itself to the latest version. On the update
 page you can change what type of updates you'd like to receive, manually
 update it or reinstalling the current version.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-win-07.png
+.. figure:: /_static/images/plesk-win-07.png
    :alt: 
 
 Be Advised: We highly recommend you use the stable builds at all times,
@@ -276,7 +276,7 @@ The support page shows you basic information about which versions are
 being used. Please run the diagnostics option and copy paste the output
 of this whole page when requesting support.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-win-08.png
+.. figure:: /_static/images/plesk-win-08.png
    :alt: 
 
 Troubleshooting

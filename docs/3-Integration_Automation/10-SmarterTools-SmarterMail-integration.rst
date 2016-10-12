@@ -69,25 +69,25 @@ To do this for SmarterMail, go to the **Domain level**. Click
 **Settings**, then choose '**Content Filtering**\ ' from the '**Domain
 Settings**\ ' tab.
 
-.. figure:: https://my.spamexperts.com/images/kb/smart/smartdomainsetting.png
+.. figure:: /_static/images/smartdomainsetting.png
    :alt: 
 
 Now click '**New**\ ' and put a check mark in the box '**Email
 Header**\ ', then proceed by clicking '**Next**\ '.
 
-.. figure:: https://my.spamexperts.com/images/kb/smart/chooseheadersmart.png
+.. figure:: /_static/images/chooseheadersmart.png
    :alt: 
 
 In the '**Email Header**\ ' box, please add the following.
 "**X-Recommended- Action: reject**\ " and click '**Next**\ '.
 
-.. figure:: https://my.spamexperts.com/images/kb/smart/recectsmart.png
+.. figure:: /_static/images/recectsmart.png
    :alt: 
 
 Now place a checkmark next to the '**Move Message**\ ' box, then write
 '**Spam**\ ' in the text box next to it.
 
-.. figure:: https://my.spamexperts.com/images/kb/smart/rejectspamfolder.png
+.. figure:: /_static/images/rejectspamfolder.png
    :alt: 
 
 Then click '**Save**\ ' and you're all done. Now all emails with this

@@ -12,7 +12,7 @@ Users can access the **Domain Aliases** feature from the\*\* Domain
 Level (Domains > Overview > Click on domain)\*\* by going to **Incoming
 > Domain Aliases.**
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/pictures/Domain%20Aliases.png
+.. figure:: /_static/images/DomainAliases.png
    :alt: 
 
 Example

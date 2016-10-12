@@ -79,7 +79,7 @@ For example:
 -  **mx4.example.com. A 1.1.1.2 (TTL 60)**
 -  **mx4.example.com. A 1.1.2.2 (TTL 60)**
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/pictures/dns%20round%20robin.jpg
+.. figure:: /_static/images/dns%20round%20robin.jpg
    :alt: 
 
 \*\* Then you will add in your DNS Settings the MX Records, as

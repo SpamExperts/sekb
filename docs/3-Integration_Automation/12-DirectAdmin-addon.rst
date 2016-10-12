@@ -217,7 +217,7 @@ following and create a file named **"debug"**:
 Now the debug logs are enabled and you can check them in the
 **“prospamfilter\_admin.log”** and **“prospamfilter\_root.log”** files.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/direct-admin-debug-ssh.png
+.. figure:: /_static/images/direct-admin-debug-ssh.png
    :alt: 
 
 To check the logs just issue the following commands:
@@ -261,16 +261,16 @@ it only when needed, as the debug logs a lot of information to the log
 files and can consume valuable resources if it’s kept enabled all the
 time.
 
-.. |Fig. 1: directadminapi.conf.new file| image:: https://dev.spamexperts.com/sites/default/files/pictures/direct-admin-%20api-conf.jpg
-.. |Fig. 2: SpamExperts Module For DirectAdmin files.| image:: https://dev.spamexperts.com/sites/default/files/pictures/direct-admin-%20filelist.jpg
-.. |Fig. 3: Add Plugin form at DirectAdmin panel.| image:: https://my.spamexperts.com/images/kb/direct/3fu6.png
-.. |Fig. 4: SpamExperts Module For DirectAdmin, Configuration tab.| image:: https://dev.spamexperts.com/sites/default/files/images/nzmw.png
-.. |Fig. 5: Configuration of SpamExperts Module For DirectAdmin at Configuration tab.| image:: https://my.spamexperts.com/images/kb/direct/r8gr.png
-.. |Fig. 13: Branding configuration of SpamExperts Module For DirectAdmin.| image:: https://dev.spamexperts.com/sites/default/files/images/FIuDKw.png
-.. |Fig. 6: Domain List tab with marked single domain actions.| image:: https://dev.spamexperts.com/sites/default/files/images/cprg.png
-.. |Fig. 7: Domain List tab with marked group action available for domain.| image:: https://dev.spamexperts.com/sites/default/files/images/yjzj.png
-.. |Fig. 8: Bulk Protection tab of SpamExperts For DirectAdmin module.| image:: https://dev.spamexperts.com/sites/default/files/images/direct-admin-bulk-protect.jpg
-.. |Fig. 9: Update tab.| image:: https://dev.spamexperts.com/sites/default/files/images/9kzn.png
-.. |Fig. 10: Plugin Manager with module ready to update.| image:: https://my.spamexperts.com/images/kb/direct/4ajy.png
-.. |Fig. 11: Support tab| image:: https://dev.spamexperts.com/sites/default/files/images/direct-admin-support.jpg
-.. |Fig. 12: Resellers & users access to plugin.| image:: https://my.spamexperts.com/images/kb/direct/jtp6.png
+.. |Fig. 1: directadminapi.conf.new file| image:: /_static/images/direct-admin-%20api-conf.jpg
+.. |Fig. 2: SpamExperts Module For DirectAdmin files.| image:: /_static/images/direct-admin-%20filelist.jpg
+.. |Fig. 3: Add Plugin form at DirectAdmin panel.| image:: /_static/images/3fu6.png
+.. |Fig. 4: SpamExperts Module For DirectAdmin, Configuration tab.| image:: /_static/images/nzmw.png
+.. |Fig. 5: Configuration of SpamExperts Module For DirectAdmin at Configuration tab.| image:: /_static/images/r8gr.png
+.. |Fig. 13: Branding configuration of SpamExperts Module For DirectAdmin.| image:: /_static/images/FIuDKw.png
+.. |Fig. 6: Domain List tab with marked single domain actions.| image:: /_static/images/cprg.png
+.. |Fig. 7: Domain List tab with marked group action available for domain.| image:: /_static/images/yjzj.png
+.. |Fig. 8: Bulk Protection tab of SpamExperts For DirectAdmin module.| image:: /_static/images/direct-admin-bulk-protect.jpg
+.. |Fig. 9: Update tab.| image:: /_static/images/9kzn.png
+.. |Fig. 10: Plugin Manager with module ready to update.| image:: /_static/images/4ajy.png
+.. |Fig. 11: Support tab| image:: /_static/images/direct-admin-support.jpg
+.. |Fig. 12: Resellers & users access to plugin.| image:: /_static/images/jtp6.png

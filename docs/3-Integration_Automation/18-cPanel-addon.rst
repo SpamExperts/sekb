@@ -51,7 +51,7 @@ according to the following requirements:
     4. The "Change mx" feature has to be enabled in the feature list. To enable this, go to: **Packages > Feature Manager**, click on **Edit Feature List** and tick the **“Ability to Change MX”** box.
     5. PHP 5.4 or above
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/pictures/cpanel_image11.png
+.. figure:: /_static/images/cpanel_image11.png
    :alt: 
 
 1. PHP support for:
@@ -96,13 +96,13 @@ The cPanel part of the addon provides the enduser a (brandable) icon in
 their control panel, allowing them to see their domains and login to
 them.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/cpanel_image08.png
+.. figure:: /_static/images/cpanel_image08.png
    :alt: 
 
 If they click the icon, they are redirected to a page showing their
 domains with login links.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/pictures/cpanel_image02.png
+.. figure:: /_static/images/cpanel_image02.png
    :alt: 
 
 Clicking “login” will automatically log them into the spam filter, and
@@ -114,12 +114,12 @@ Addon: WHM
 The WHM part of the addon includes all configuration and features for
 the super-admin.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/cpanel_image07.png
+.. figure:: /_static/images/cpanel_image07.png
    :alt: 
 
 Clicking the icon will lead you to the mainmenu for the addon
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/pictures/cpanel_image10.png
+.. figure:: /_static/images/cpanel_image10.png
    :alt: 
 
 Configuration
@@ -137,7 +137,7 @@ Be Advised: If you want to use this addon on our Hosted Cloud there are
 some :ref:`additional steps  <1-Using-addons-on-the-Hosted-Cloud>`
 required.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/pictures/cpanel_image04.png
+.. figure:: /_static/images/cpanel_image04.png
    :alt: 
 
 Configuration items described in detail
@@ -204,7 +204,7 @@ Use SSL for API requests. Please note that this will require cpsrvd to
 be compiled with OpenSSL. This checkbox will be unchecked/greyed out
 when your PHP version/server doesn't support OpenSSL.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/pictures/cpanel_image00.png
+.. figure:: /_static/images/cpanel_image00.png
    :alt: 
 
 Enable automatic updates
@@ -333,7 +333,7 @@ icon to match your own branding. This functionality is only available if
 you have purchased the Private Label (White label) or Premium Private
 Label (Premium white label)
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/cpanel_image13.png
+.. figure:: /_static/images/cpanel_image13.png
    :alt: 
 
 Domain List
@@ -342,7 +342,7 @@ Domain List
 The domain list shows you all the local domains and offers an option to
 check if it is protected, exists in SpamFilter, and to login to it.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/pictures/cpanel_image01.png
+.. figure:: /_static/images/cpanel_image01.png
    :alt: 
 
 Clicking “Check Status” or “Check all domains” will check if the domain
@@ -355,7 +355,7 @@ Bulkprotect
 The Bulk Protect option allows you to protect all domains on the local
 system.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/pictures/cpanel_image03.png
+.. figure:: /_static/images/cpanel_image03.png
    :alt: 
 
 Clicking bulk protect will execute the bulk protect system. This may
@@ -364,7 +364,7 @@ parked) and execute all of the various tasks involved in protecting the
 domain (for example: adding it, changing MX records, setting email
 address for reports).
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/pictures/cpanel_image05.png
+.. figure:: /_static/images/cpanel_image05.png
    :alt: 
 
 On servers with big amount of domains (1000+) using the User  Interface
@@ -389,7 +389,7 @@ Migration
 The migration page allows you change the username user and re-assign all
 domains to that user, in case the destination user is an admin:
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/pictures/cpanel_image09.png
+.. figure:: /_static/images/cpanel_image09.png
    :alt: 
 
 The migration process requires you to enter the new user's username and
@@ -413,7 +413,7 @@ The addon can auto-update itself to the latest version. On the update
 page you can change what type of updates you'd like to receive, manually
 update it or reinstalling the current version.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/pictures/cpanel_image06.png
+.. figure:: /_static/images/cpanel_image06.png
    :alt: 
 
 We highly recommend you use the stable builds at all times, as these are
@@ -428,7 +428,7 @@ Support
 The support page shows you basic information about which versions are
 being used and generates a special code.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/pictures/cpanel_image12.png
+.. figure:: /_static/images/cpanel_image12.png
    :alt: 
 
 The special code contains a collection of data used by support to be

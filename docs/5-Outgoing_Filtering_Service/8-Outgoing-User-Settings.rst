@@ -6,7 +6,7 @@ Outgoing User Settings
 Here you can configure the settings of the outgoing user. The image
 below represents a user for a specifc domain.
 
-.. figure:: https://my.spamexperts.com/images/kb/outgoingusersettings.png
+.. figure:: /_static/images/outgoingusersettings.png
    :alt: 
 
 -  **Automatic lock enabled -** This setting will enable the automatic

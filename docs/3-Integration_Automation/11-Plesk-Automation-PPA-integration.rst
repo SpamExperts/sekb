@@ -14,7 +14,7 @@ license has been activated for your PPA setup.
 Applications***, import the `SpamExperts APS 1.2
 package <http://dev.apsstandard.org/apps/>`__
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/3.png
+.. figure:: /_static/images/3.png
    :alt: 
 
 2. After the installation has completed (this takes a few minutes),
@@ -88,7 +88,7 @@ Do not associate an attribute.
 | **Name**: SE: Achiving (with corresponding resource on next page)
 | ===============
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/ppa/2.png
+.. figure:: /_static/images/2.png
    :alt: 
 
 4. Go to ***Products, Service Templates, Add Shared Hosting Template***
@@ -104,7 +104,7 @@ Do not associate an attribute.
 | **SE: Interface enabled**: 1
 | **SE: Outgoing**: 0
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/ppa/1.png
+.. figure:: /_static/images/1.png
    :alt: 
 
 For domain to be registered automatically in SpamExperts, you have to

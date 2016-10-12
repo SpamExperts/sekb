@@ -96,13 +96,13 @@ APS Package Import
 Navigate to **Applications, APS Packages,** as the provider and click
 the **Import Package** button as shown below:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/application/application_01.png
+.. figure:: /_static/images/application_01.png
    :alt: 
 
 Select the local file option and search for the package to upload in
 your file browser. Once selected, submit the form:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images//application/application_02.png
+.. figure:: /_static/images/application_02.png
    :alt: 
 
 The APS package should now be available and will be validated in a few
@@ -116,18 +116,18 @@ Application Instance
 Click on the package name highlighted in blue, to enter the
 **Application**. This will redirect you to the following screen:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/instance/instance_01.png
+.. figure:: /_static/images/instance_01.png
    :alt: 
 
 Go to **Instances** tab and click **Install**:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/instance/instance_02.png
+.. figure:: /_static/images/instance_02.png
    :alt: 
 
 In the field for **Application API end-point URI**, type the URI of the
 endpoint configured in the previous section and click **Next**
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/instance/instance_03.png
+.. figure:: /_static/images/instance_03.png
    :alt: 
 
 This action will redirect you to the settings configuration screen
@@ -136,23 +136,23 @@ account**. Note that you should specify the **username** and
 **password** of a Control Panel **"Administrator"** account and ensure
 the given user is allowed to create sub-admins.
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/instance/instance_04.png
+.. figure:: /_static/images/instance_04.png
    :alt: 
 
 Click **Next** and verify the information on the following screen:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/instance/instance_05.png
+.. figure:: /_static/images/instance_05.png
    :alt: 
 
 Click **Finish** and the instance will be created as shown below:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/instance/instance_06.png
+.. figure:: /_static/images/instance_06.png
    :alt: 
 
 Click on the application name and verify that the instance **Status is
 Ready** (Green):
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/instance/instance_07.png
+.. figure:: /_static/images/instance_07.png
    :alt: 
 
 Be Advised: If the status is not green, it's most likely because of an
@@ -185,14 +185,14 @@ Please follow these **Initial Steps** in order to create each resource:
 
 In the application page, select **Resource Types** and click **Create**:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/resource/resource_01.png
+.. figure:: /_static/images/resource_01.png
    :alt: 
 
 Select one of the following (please respect the order): Application
 Service, Application service Reference, Application Counter (KB),
 Application Counter Unit
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/resource/resource_02.png
+.. figure:: /_static/images/resource_02.png
    :alt: 
 
 We’ll start by selecting the Application Service Reference Resource Type
@@ -201,23 +201,23 @@ We’ll start by selecting the Application Service Reference Resource Type
 Enter a name, in the screen below (ex: SE Application) and click
 **Next**
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/reference/reference_01.png
+.. figure:: /_static/images/reference_01.png
    :alt: 
 
 Select the **APS Type**, ex: SpamExperts:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/reference/reference_02.png
+.. figure:: /_static/images/reference_02.png
    :alt: 
 
 Then select the **Application Instance** created earlier:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/reference/reference_03.png
+.. figure:: /_static/images/reference_03.png
    :alt: 
 
 Click **Finish** once you see the text highlighted in green, in the
 screen below:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/reference/reference_04.png
+.. figure:: /_static/images/reference_04.png
    :alt: 
 
 Now to the second Resource Type: Application Service
@@ -228,24 +228,24 @@ You’ll be redirected to the screen below once more. Do this for each of
 the following names in turn, ex: SE Context, SE Domain, SE Email, and
 click **Next**
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/service/service_01.png
+.. figure:: /_static/images/service_01.png
    :alt: 
 
 Select a resource handler for the service you chose (Context, Domain,
 and Email):
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/service/service_02.png
+.. figure:: /_static/images/service_02.png
    :alt: 
 
 Once selected click **Next**
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/service/service_03.png
+.. figure:: /_static/images/service_03.png
    :alt: 
 
 Click **Finish** once you see the text highlighted in green, and you’ve
 verified all the details are correct:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/service/service_04.png
+.. figure:: /_static/images/service_04.png
    :alt: 
 
 For the last step, go back to the application screen and select
@@ -255,17 +255,17 @@ Application Counter
 
 Enter a name for the counter and click **Next** (ex: Incoming):
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/counter/counter_01.png
+.. figure:: /_static/images/counter_01.png
    :alt: 
 
 Select the respective counter from the list:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/counter/counter_02.png
+.. figure:: /_static/images/counter_02.png
    :alt: 
 
 And click **Finish**, once you see the text highlighted in green:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/counter/counter_03.png
+.. figure:: /_static/images/counter_03.png
    :alt: 
 
 Product counters
@@ -332,7 +332,7 @@ functionality. They will be documented when fully implemented.
 Service Template
 ----------------
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/template/template_01.png
+.. figure:: /_static/images/template_01.png
    :alt: 
 
 To access the **Service Templates** first open the **Products menu** in
@@ -347,7 +347,7 @@ Second, specify the general parameters of the **Service Template**:
 -  **Account-Wide Services** - Make sure it's selected (POA 6.0)
 -  **Type** - 'Custom' should be selected
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/template/template_02.png
+.. figure:: /_static/images/template_02.png
    :alt: 
 
 Click **Next** to proceed to the list of **Resources Types**.
@@ -355,12 +355,12 @@ Click **Next** to proceed to the list of **Resources Types**.
 Type for example: 'SE\*' in the search bar to get the resources you've
 created:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/template/template_03.png
+.. figure:: /_static/images/template_03.png
    :alt: 
 
 Select the SE resources you've created and click **Next**.
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/template/template_04.png
+.. figure:: /_static/images/template_04.png
    :alt: 
 
 Specify the default template limits and click **Next** as shown above.
@@ -369,20 +369,20 @@ Be Advised: the **Application Service Reference** (SE Service) and the
 **Context Service** (SE Context) limits **must be set to 1**, the rest
 can be Unlimited by default or customized as required.
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/template/template_05.png
+.. figure:: /_static/images/template_05.png
    :alt: 
 
 Review the resources and limits on the final page and click **Finish**.
 
 Now, select your newly created **Service Template**:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/template/template_06.png
+.. figure:: /_static/images/template_06.png
    :alt: 
 
 And click the button labeled **Activate** at the top of the page, to
 activate it:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/template/template_07.png
+.. figure:: /_static/images/template_07.png
    :alt: 
 
 Service Plan
@@ -440,33 +440,33 @@ Subscribing
 To make a **Subscription**, navigate to the **Operations** menu, choose
 **Subscriptions** and click the **Create New Subscription** button:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/subscription/subscription_01.png
+.. figure:: /_static/images/subscription_01.png
    :alt: 
 
 Select the account you wish to subscribe:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/subscription/subscription_02.png
+.. figure:: /_static/images/subscription_02.png
    :alt: 
 
 Select the **SpamExperts Service Template**:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/subscription/subscription_03.png
+.. figure:: /_static/images/subscription_03.png
    :alt: 
 
 Set the default limits and click **Next**:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/subscription/subscription_04.png
+.. figure:: /_static/images/subscription_04.png
    :alt: 
 
 Review and click **Finish**:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/subscription/subscription_05.png
+.. figure:: /_static/images/subscription_05.png
    :alt: 
 
 Navigate to **Tasks** and check that all the tasks related to the
 SpamExperts subscription are completed successfully:
 
-.. figure:: https://my.spamexperts.com/images/kb/addons/aps2/images/subscription/subscription_06.png
+.. figure:: /_static/images/subscription_06.png
    :alt: 
 
 To protect all of the customer's domains and emails, navigate to the
@@ -576,7 +576,7 @@ Service users protected with SpamExperts can log in to the SpamExperts
 Control Panel as email users by using the button available in their OA
 web interface:
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/aps2-login-spampanel.png
+.. figure:: /_static/images/aps2-login-spampanel.png
    :alt: 
 
 Debugging and support
@@ -652,5 +652,5 @@ task only (not the task tree). Do this for any failed task in
 succession. Don't cancel all the tasks, some may be important and will
 be triggered automatically, after you cancel the failed task.
 
-.. |image0| image:: https://my.spamexperts.com/images/kb/addons/aps2/images/application/application_03.png
-.. |image1| image:: https://dev.spamexperts.com/sites/default/files/images/application_04.png
+.. |image0| image:: /_static/images/application_03.png
+.. |image1| image:: /_static/images/application_04.png

@@ -42,7 +42,7 @@ In the server settings window, change the following fields:
 -  Uncheck the **"Check for new messages on startup"** and **"Check for
    new messages every .. minutes"**
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/thunderbird3.png
+.. figure:: /_static/images/thunderbird3.png
    :alt: 
 
 On the **"Synchronization & Storage"** tab, uncheck the **"Keep messages
@@ -51,8 +51,8 @@ for this account on this computer"**.
 You're all set. Now you can use the IMAP quarantine & training straight
 from your Thunderbird email client!
 
-.. |image0| image:: https://dev.spamexperts.com/sites/default/files/images/thunderbird6.png
-.. |image1| image:: https://dev.spamexperts.com/sites/default/files/images/thunderbird4.png
-.. |image2| image:: https://dev.spamexperts.com/sites/default/files/images/thunderbird1.png
-.. |image3| image:: https://dev.spamexperts.com/sites/default/files/images/thunderbird5.png
-.. |image4| image:: https://dev.spamexperts.com/sites/default/files/images/thunderbird2.png
+.. |image0| image:: /_static/images/thunderbird6.png
+.. |image1| image:: /_static/images/thunderbird4.png
+.. |image2| image:: /_static/images/thunderbird1.png
+.. |image3| image:: /_static/images/thunderbird5.png
+.. |image4| image:: /_static/images/thunderbird2.png

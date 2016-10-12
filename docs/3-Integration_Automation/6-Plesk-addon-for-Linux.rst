@@ -67,13 +67,13 @@ The customer part of the addon provides the end user a (brandable) icon
 in their control panel, allowing them to see added domains and login to
 them.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-linux-1.png
+.. figure:: /_static/images/plesk-linux-1.png
    :alt: 
 
 By clicking on the icon, the users will be redirected to another page
 that displays all their domains and login links.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-linux-2.png
+.. figure:: /_static/images/plesk-linux-2.png
    :alt: 
 
 Clicking “login” will automatically log the user in the SpamExperts web
@@ -86,12 +86,12 @@ Addon: Admin view
 The admin part of the addon includes all administrator configuration and
 features.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-linux-1.png
+.. figure:: /_static/images/plesk-linux-1.png
    :alt: 
 
 Clicking the icon will lead you to the add-on’s main menu.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-linux-3.png
+.. figure:: /_static/images/plesk-linux-3.png
    :alt: 
 
 Configuration
@@ -108,7 +108,7 @@ Please note: If you want to use this addon on our Hosted Cloud there are
 some :ref:`additional steps  <1-Using-addons-on-the-Hosted-Cloud>`
 required.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-linux-4.png
+.. figure:: /_static/images/plesk-linux-4.png
    :alt: 
 
 Configuration items described in detail
@@ -261,7 +261,7 @@ icon to match your own branding. This functionality is only available if
 you have purchased the Private Label (Whitelabel) or Premium Private
 Label (Premium whitelabel).
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-linux-5.png
+.. figure:: /_static/images/plesk-linux-5.png
    :alt: 
 
 Domain List
@@ -271,7 +271,7 @@ The domain list shows you all the local domains and offers you an option
 to check if it is protected (if they are filtered by SpamExperts) and to
 login to it.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-linux-6.png
+.. figure:: /_static/images/plesk-linux-6.png
    :alt: 
 
 Clicking “\ **Check Status**\ ” or “\ **Check all domains**\ ” will
@@ -285,7 +285,7 @@ Bulkprotect
 The Bulk Protect option allows you to protect all domains on the local
 system.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-linux-7.png
+.. figure:: /_static/images/plesk-linux-7.png
    :alt: 
 
 Clicking bulk protect will execute the bulk protect system. This may
@@ -316,7 +316,7 @@ Migration
 The migration page allows you change the username user and re-assign all
 domains to that user, in case the destination user is an administrator:
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-linux-8.png
+.. figure:: /_static/images/plesk-linux-8.png
    :alt: 
 
 The migration process requires you to enter the new username and
@@ -333,7 +333,7 @@ The addon can auto-update itself to the latest version. On the update
 page you can change what type of updates you'd like to receive, manually
 update it or reinstalling the current version.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-linux-9.png
+.. figure:: /_static/images/plesk-linux-9.png
    :alt: 
 
 We highly recommend you use the stable builds at all times, as these are
@@ -348,7 +348,7 @@ Support
 The support page shows you basic information about which versions are
 being used and generates a special code.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/plesk-linux-10.png
+.. figure:: /_static/images/plesk-linux-10.png
    :alt: 
 
 The special code contains a collection of data used by our support

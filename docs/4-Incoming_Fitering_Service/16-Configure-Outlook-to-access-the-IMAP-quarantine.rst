@@ -76,17 +76,17 @@ pane window.
 
 https://my.spamexperts.com/kb/80/Spam-Quarantine-weborIMAP.html
 
-.. |image0| image:: https://my.spamexperts.com/images/kb/training/outlook/Training_Outlook_%281%29.png
+.. |image0| image:: /_static/images/Training_Outlook_%281%29.png
    :target: http://spamexperts.com/wiki/index.php?title=File:Training_Outlook_%281%29.png%20"Training%20Outlook%20(1).png"
-.. |image1| image:: https://my.spamexperts.com/images/kb/training/outlook/Training_Outlook_%282%29.png
+.. |image1| image:: /_static/images/Training_Outlook_%282%29.png
    :target: http://spamexperts.com/wiki/index.php?title=File:Training_Outlook_%282%29.png%20"Training%20Outlook%20(2).png"
-.. |image2| image:: https://my.spamexperts.com/images/kb/training/outlook/Training_Outlook_%283%29.png
+.. |image2| image:: /_static/images/Training_Outlook_%283%29.png
    :target: http://spamexperts.com/wiki/index.php?title=File:Training_Outlook_%283%29.png%20"Training%20Outlook%20(3).png"
-.. |image3| image:: https://my.spamexperts.com/images/kb/training/outlook/Training_Outlook_%284%29.png
+.. |image3| image:: /_static/images/Training_Outlook_%284%29.png
    :target: http://spamexperts.com/wiki/index.php?title=File:Training_Outlook_%284%29.png%20"Training%20Outlook%20(4).png"
-.. |image4| image:: https://my.spamexperts.com/images/kb/training/outlook/Training_Outlook_%285%29.png
+.. |image4| image:: /_static/images/Training_Outlook_%285%29.png
    :target: http://spamexperts.com/wiki/index.php?title=File:Training_Outlook_%285%29.png%20"Training%20Outlook%20(5).png"
-.. |image5| image:: https://my.spamexperts.com/images/kb/training/outlook/Training_Outlook_%286%29.png
+.. |image5| image:: /_static/images/Training_Outlook_%286%29.png
    :target: http://spamexperts.com/wiki/index.php?title=File:Training_Outlook_%286%29.png%20"Training%20Outlook%20(6).png"
-.. |image6| image:: https://my.spamexperts.com/images/kb/training/outlook/Training_Outlook_%287%29.png
+.. |image6| image:: /_static/images/Training_Outlook_%287%29.png
    :target: http://spamexperts.com/wiki/index.php?title=File:Training_Outlook_%287%29.png%20"Training%20Outlook%20(7).png"

@@ -22,7 +22,7 @@ To add a Sub-Admin account you need to follow the steps below:
 4. Select the username, password and email address for your Sub-Admin
 5. Review the Sub-Admin privileges, as follows:
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/sub-admin-add.png
+.. figure:: /_static/images/sub-admin-add.png
    :alt: 
 
 **Allow Sub-Admins** - this determines if the Sub-Admin can add

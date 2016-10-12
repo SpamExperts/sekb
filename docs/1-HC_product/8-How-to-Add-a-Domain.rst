@@ -13,7 +13,7 @@ name.
 After verifying that the typed domain name is correct make sure that the
 destination server route is valid, as shown below.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/pictures/add%20domain.jpg
+.. figure:: /_static/images/adddomain.jpg
    :alt: 
 
 If you do not have a specific destination server route to add from the

@@ -149,7 +149,7 @@ Manually installing Debian
 If you have to install Debian yourself, simply boot your server with the
 latest stable Debian ISO mounted or burned to a CD.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg01.png
+.. figure:: /_static/images/debinstallimg01.png
    :alt: 
 
 If your BIOS settings are correct to boot from the Debian CD, you'll see
@@ -159,30 +159,30 @@ to start the Debian installation process.
 Choose Language
 ~~~~~~~~~~~~~~~
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg02.png
+.. figure:: /_static/images/debinstallimg02.png
    :alt: 
 
 Select English for the default system language.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg03.png
+.. figure:: /_static/images/debinstallimg03.png
    :alt: 
 
 Select the representative country/territory or area in question. In this
 case we're in The Netherlands, which is located under Other.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg04.png
+.. figure:: /_static/images/debinstallimg04.png
    :alt: 
 
 Select the corresponding continent or region which the desired country
 is located, for instance Europe.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg05.png
+.. figure:: /_static/images/debinstallimg05.png
    :alt: 
 
 Select the country, territory or area in question. For instance: The
 Netherlands.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg06.png
+.. figure:: /_static/images/debinstallimg06.png
    :alt: 
 
 Pick the correct keymap. This should probably be American English
@@ -195,34 +195,34 @@ an IP address automatically assigned via DHCP, there are a few extra
 steps to take. If you're using DHCP, you can skip the first part of the
 Network Setup and continue with the second part.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg07.png
+.. figure:: /_static/images/debinstallimg07.png
    :alt: 
 
 You'll get a nice "warning" that the server couldn't reach the DHCP
 server. No problem, since it will present an option to setup a static IP
 address.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg08.png
+.. figure:: /_static/images/debinstallimg08.png
    :alt: 
 
 Select Configure Network Manually.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg09.png
+.. figure:: /_static/images/debinstallimg09.png
    :alt: 
 
 Enter the IP address of the server.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg10.png
+.. figure:: /_static/images/debinstallimg10.png
    :alt: 
 
 Enter the subnet address.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg11.png
+.. figure:: /_static/images/debinstallimg11.png
    :alt: 
 
 Enter the gateway address.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg12.png
+.. figure:: /_static/images/debinstallimg12.png
    :alt: 
 
 Finally, it's time to enter the nameservers. If you have more than one,
@@ -237,7 +237,7 @@ address using DHCP or you've set it up manually by giving it a static
 IP. Either way, this second part is the same for both static and dynamic
 IP addresses.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg13.jpg
+.. figure:: /_static/images/debinstallimg13.jpg
    :alt: 
 
 First enter the hostname of the server. This could be something such as
@@ -250,35 +250,35 @@ should not be used for the MX records of your domains.
 Partitioning
 ~~~~~~~~~~~~
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg14.png
+.. figure:: /_static/images/debinstallimg14.png
    :alt: 
 
 Choose for Guided - Use entire disk.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg15.png
+.. figure:: /_static/images/debinstallimg15.png
    :alt: 
 
 Choose the hard disk you want to install the system on. This is probably
 the first, and maybe the only one in the list.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg16.png
+.. figure:: /_static/images/debinstallimg16.png
    :alt: 
 
 Pick the first option: **All files in one partition**.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg17.png
+.. figure:: /_static/images/debinstallimg17.png
    :alt: 
 
 Hit **Finish partitioning and write changes to disk** to wrap things up.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg18.png
+.. figure:: /_static/images/debinstallimg18.png
    :alt: 
 
 If you're sure to apply the partitioning scheme selected earlier, select
 Yes. Be aware that already existing partitions will be removed, thus
 wiping out all data.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg19.png
+.. figure:: /_static/images/debinstallimg19.png
    :alt: 
 
 The system is now partitioning the selected hard disk.
@@ -286,7 +286,7 @@ The system is now partitioning the selected hard disk.
 Installing base system
 ~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg20.png
+.. figure:: /_static/images/debinstallimg20.png
    :alt: 
 
 The system is now installing the base system.
@@ -294,7 +294,7 @@ The system is now installing the base system.
 Set up users and passwords
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg21.png
+.. figure:: /_static/images/debinstallimg21.png
    :alt: 
 
 You need to setup a password for root. We suggest you generate a strong
@@ -304,29 +304,29 @@ this is something you have to give to support in order to finish the
 installation process. Please note that the root password must be ASCII
 characters.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg22.png
+.. figure:: /_static/images/debinstallimg22.png
    :alt: 
 
 Confirm the password.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg23.png
+.. figure:: /_static/images/debinstallimg23.png
    :alt: 
 
 The setup requires you to add a user to the system. This value should be
 *maint*.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg24.png
+.. figure:: /_static/images/debinstallimg24.png
    :alt: 
 
 This value is identical to the previous step.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg25.png
+.. figure:: /_static/images/debinstallimg25.png
    :alt: 
 
 This user requires a password. It doesn't matter what you enter since
 this user is going to be deleted.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg26.png
+.. figure:: /_static/images/debinstallimg26.png
    :alt: 
 
 Confirm the password.
@@ -334,31 +334,31 @@ Confirm the password.
 Configure the Package Manager
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg27.png
+.. figure:: /_static/images/debinstallimg27.png
    :alt: 
 
 To receive updates, the setup asks you to select the nearest country. In
 this case, we select The Netherlands since that is where our server is
 located.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg28.png
+.. figure:: /_static/images/debinstallimg28.png
    :alt: 
 
 Select a mirror, this can be anyone you'd like. In this example we chose
 the official Debian mirror atftp.nl.debian.org.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg29.png
+.. figure:: /_static/images/debinstallimg29.png
    :alt: 
 
 If a proxy is required for accessing the internet (which is fairly
 unlikely) you can enter its settings here.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg30.png
+.. figure:: /_static/images/debinstallimg30.png
    :alt: 
 
 Select "No" when asked to join the "Popularity Contest".
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg31.png
+.. figure:: /_static/images/debinstallimg31.png
    :alt: 
 
 Deselect all items that have been selected automatically. This is an
@@ -369,7 +369,7 @@ which we don't need (or want). The only option you should select is
 Installing the bootloader
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg32.png
+.. figure:: /_static/images/debinstallimg32.png
    :alt: 
 
 In order to make the system boot correctly, a bootloader should be
@@ -384,21 +384,21 @@ freshly installed Debian system.
 Reboot
 ~~~~~~
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg33.png
+.. figure:: /_static/images/debinstallimg33.png
    :alt: 
 
 You'll be presented with the "GRUB Bootloader". The system should
 continue automatically, but if it doesn't, select the option without
 "Single User Mode" and press Enter.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg34.png
+.. figure:: /_static/images/debinstallimg34.png
    :alt: 
 
 During the boot process you will see a lot of information. Afterward you
 will be presented with a text based login prompt. You should login with
 root as username and the earlier configured root password.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg35.png
+.. figure:: /_static/images/debinstallimg35.png
    :alt: 
 
 In order to be able to access your server to finish the rest of the
@@ -410,13 +410,13 @@ entering:
 
         apt-get install openssh-server
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg36.png
+.. figure:: /_static/images/debinstallimg36.png
    :alt: 
 
 You will be presented with a request for confirmation, Type Y and press
 enter. OpenSSH-Server will now be installed and configured.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg37.png
+.. figure:: /_static/images/debinstallimg37.png
    :alt: 
 
 OpenSSH-Server is now installed and has been started.
@@ -424,7 +424,7 @@ OpenSSH-Server is now installed and has been started.
 Removing the "maint" user
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/debinstallimg38.png
+.. figure:: /_static/images/debinstallimg38.png
    :alt: 
 
 Earlier in the setup you were asked to create a user. Because we don't

@@ -77,7 +77,7 @@ Be advised: The above minimum requirements are **mandatory** and more
 resources should be allocated based on how many domains your solution
 filters, as shown below:
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/hardware-requirements-Debian-Install-LC.png
+.. figure:: /_static/images/hardware-requirements-Debian-Install-LC.png
    :alt: 
 
 Installation of Debian

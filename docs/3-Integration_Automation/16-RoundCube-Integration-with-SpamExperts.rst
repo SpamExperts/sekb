@@ -68,7 +68,7 @@ For reporting legitimate emails (ham):
 
         $config['markasjunk2_email_ham'] = 'notspamreport@spamrl.com';
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/pictures/roundcube-conf2.png
+.. figure:: /_static/images/roundcube-conf2.png
    :alt: 
 
 In the same file you can also specify if the email should be sent as an
@@ -90,4 +90,4 @@ following:
 For more information check the plugin’s GitHub
 `repository <https://github.com/JohnDoh/Roundcube-Plugin-Mark-as-Junk-2/>`__.
 
-.. |image0| image:: https://dev.spamexperts.com/sites/default/files/pictures/roundcube-%20conf1.png
+.. |image0| image:: /_static/images/roundcube-%20conf1.png

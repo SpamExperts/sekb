@@ -191,7 +191,7 @@ Subscriptions).
 
 An example of the resource types can be seen below.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/odin-aps1.2-img3.png
+.. figure:: /_static/images/odin-aps1.2-img3.png
    :alt: 
 
 **Service Template**:
@@ -265,7 +265,7 @@ subscription, domains and users.
 First you need to be sure that you have the right Subscription selected
 in the top right corner.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/odin-aps1.2-img4.png
+.. figure:: /_static/images/odin-aps1.2-img4.png
    :alt: 
 
 On domains check to have the domain hosted for that subscription: **Home
@@ -282,7 +282,7 @@ Last step is to check users. If you don't have any users, than go to
 **Home > Users > Add New Service User** . When you create the user be
 sure that you checked **SpamExperts Integration as Mailbox**.
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/odin-aps1.2-img5.png
+.. figure:: /_static/images/odin-aps1.2-img5.png
    :alt: 
 
 The user configuration is easy. In order to provision a domain, the user
@@ -426,17 +426,17 @@ Provider Admin
 
 Overview in the Applications Manager:
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/odin-aps1.2-img10.png
+.. figure:: /_static/images/odin-aps1.2-img10.png
    :alt: 
 
 Detailed overview:
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/odin-aps1.2-img11.png
+.. figure:: /_static/images/odin-aps1.2-img11.png
    :alt: 
 
 Settings:
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/odin-aps1.2-img12.png
+.. figure:: /_static/images/odin-aps1.2-img12.png
    :alt: 
 
 End-User
@@ -444,12 +444,12 @@ End-User
 
 Overview in the Applications Manager:
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/odin-aps1.2-img13.png
+.. figure:: /_static/images/odin-aps1.2-img13.png
    :alt: 
 
 Detailed overview:
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/images/odin-aps1.2-img14.png
+.. figure:: /_static/images/odin-aps1.2-img14.png
    :alt: 
 
 Upgrade notes
@@ -507,9 +507,9 @@ Usage Terms
 Please see the included EULA file for the full End User License
 Agreement before using this product.
 
-.. |image0| image:: https://dev.spamexperts.com/sites/default/files/images/odin-aps1.2-img1.png
-.. |image1| image:: https://dev.spamexperts.com/sites/default/files/images/odin-aps1.2-img2.png
-.. |image2| image:: https://dev.spamexperts.com/sites/default/files/images/odin-aps1.2-img6.png
-.. |image3| image:: https://dev.spamexperts.com/sites/default/files/images/odin-aps1.2-img7.png
-.. |image4| image:: https://dev.spamexperts.com/sites/default/files/images/odin-aps1.2-img8.png
-.. |image5| image:: https://dev.spamexperts.com/sites/default/files/images/odin-aps1.2-img9.png
+.. |image0| image:: /_static/images/odin-aps1.2-img1.png
+.. |image1| image:: /_static/images/odin-aps1.2-img2.png
+.. |image2| image:: /_static/images/odin-aps1.2-img6.png
+.. |image3| image:: /_static/images/odin-aps1.2-img7.png
+.. |image4| image:: /_static/images/odin-aps1.2-img8.png
+.. |image5| image:: /_static/images/odin-aps1.2-img9.png

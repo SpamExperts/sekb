@@ -38,7 +38,7 @@ directly, is included.
 Periodic User Reports
 ---------------------
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/pictures/periodic%20user%20report.jpg
+.. figure:: /_static/images/periodic%20user%20report.jpg
    :alt: periodic user report.jpg
 
    periodic user report.jpg
@@ -104,7 +104,7 @@ Super-Admin privileges.
 Periodic Domain Reports
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/pictures/periodic%20domain%20report.jpg
+.. figure:: /_static/images/periodic%20domain%20report.jpg
    :alt: periodic domain report
 
    periodic domain report
@@ -117,7 +117,7 @@ receive a daily or weekly PDF or HTML report for the entire domain.
 On-Demand Domain Report
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: https://dev.spamexperts.com/sites/default/files/pictures/on-demand%20domain%20report.jpg
+.. figure:: /_static/images/on-demand%20domain%20report.jpg
    :alt: on-demand report
 
    on-demand report
