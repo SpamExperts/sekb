@@ -19,7 +19,8 @@ up your domain MX records `here <http://mxtoolbox.com/>`__.
 **Analyze the spam email header**
 
 Email headers show detailed information about the origin of a message
-and the various systems it passed through. Simply `View email headers`_ in
+and the various systems it passed through. Simply
+:ref:`view email headers <4-View-email-headers>` in
 your email client, and look for the line starting with
 "X-Recommended-Action:", if it's present the message was processed by
 our filters. You'll also see a "X -SpamExperts-Evidence:" header
