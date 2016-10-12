@@ -261,8 +261,8 @@ it only when needed, as the debug logs a lot of information to the log
 files and can consume valuable resources if it’s kept enabled all the
 time.
 
-.. |Fig. 1: directadminapi.conf.new file| image:: /_static/images/direct-admin-%20api-conf.jpg
-.. |Fig. 2: SpamExperts Module For DirectAdmin files.| image:: /_static/images/direct-admin-%20filelist.jpg
+.. |Fig. 1: directadminapi.conf.new file| image:: /_static/images/direct-admin-api-conf.jpg
+.. |Fig. 2: SpamExperts Module For DirectAdmin files.| image:: /_static/images/direct-admin-filelist.jpg
 .. |Fig. 3: Add Plugin form at DirectAdmin panel.| image:: /_static/images/3fu6.png
 .. |Fig. 4: SpamExperts Module For DirectAdmin, Configuration tab.| image:: /_static/images/nzmw.png
 .. |Fig. 5: Configuration of SpamExperts Module For DirectAdmin at Configuration tab.| image:: /_static/images/r8gr.png

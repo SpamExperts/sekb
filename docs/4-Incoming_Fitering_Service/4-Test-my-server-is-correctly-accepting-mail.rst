@@ -52,7 +52,7 @@ rejected. Permanent failures, including failed `Recipient
 Callouts <http://spamexperts.com/wiki/index.php?title=Recipient_callouts%20"Recipient%20callouts">`__,
 are being cached up to two hours.
 
-|File:CPanel\_mail\_routing.png|
+|File:CPanel_mail_routing.png|
 
 Outgoing
 ~~~~~~~~
@@ -90,5 +90,5 @@ record of the domain, and try a delivery:
 
 --------------
 
-.. |File:CPanel\_mail\_routing.png| image:: /_static/images/CPanel_mail_routing.png
+.. |File:CPanel_mail_routing.png| image:: /_static/images/CPanel_mail_routing.png
    :target: http://spamexperts.com/wiki/index.php?title=File:CPanel_mail_routing.png%20"File:CPanel_mail_routing.png"

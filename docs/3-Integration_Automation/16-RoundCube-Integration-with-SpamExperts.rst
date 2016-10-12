@@ -90,4 +90,4 @@ following:
 For more information check the plugin’s GitHub
 `repository <https://github.com/JohnDoh/Roundcube-Plugin-Mark-as-Junk-2/>`__.
 
-.. |image0| image:: /_static/images/roundcube-%20conf1.png
+.. |image0| image:: /_static/images/roundcube-conf1.png

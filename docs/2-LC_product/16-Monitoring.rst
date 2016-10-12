@@ -14,7 +14,7 @@ SpamExperts releases a new software build every Tuesday around 12:30
 CET. As Super Administrator, you can schedule the weekly update day/time
 of your Local Cloud on the **"Server"** > **"Settings"** page.
 
-.. figure:: /_static/images/update%20time%20-%20server%20settings.jpg
+.. figure:: /_static/images/updatetime-serversettings.jpg
    :alt: 
 
 We keep interruptions during the update process at minimum, and they

@@ -15,7 +15,7 @@ listed below:
    Services*** menu.
 -  Click the ***Upgrade/Downgrade*** button matching the image below: 
 
-.. figure:: /_static/images/Client%20area.png
+.. figure:: /_static/images/Clientarea.png
    :alt: Client Area upgrade options
 
    Client Area upgrade options
@@ -23,7 +23,7 @@ listed below:
 -  You should be presented with a screen similar to the image below,
    where you can configure your package according to new requirements:
 
-.. figure:: /_static/images/Upgrade%20Products.png
+.. figure:: /_static/images/UpgradeProducts.png
    :alt: 
 
 After you have made the changes, click the \_\ **Click to continue

@@ -136,7 +136,7 @@ You will now be presented with a few questions.
 
 Be Advised: Don't set a challenge password. Just hit Enter when asked.
 
-.. figure:: /_static/images/generate%20cert.jpg
+.. figure:: /_static/images/generatecert.jpg
    :alt: 
 
 The Common Name is important and should match your server CNAME /
