@@ -1,3 +1,5 @@
+.. _2-Firewall-Usage:
+
 Firewall Usage
 ==============
 

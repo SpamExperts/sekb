@@ -1,3 +1,5 @@
+.. _5-Delivery-IP-management:
+
 Delivery IP management
 ======================
 

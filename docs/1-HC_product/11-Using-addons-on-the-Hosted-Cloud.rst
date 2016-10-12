@@ -1,3 +1,5 @@
+.. _1-Using-addons-on-the-Hosted-Cloud:
+
 Using addons on the Hosted Cloud
 ================================
 

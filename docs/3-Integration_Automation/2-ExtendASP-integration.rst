@@ -1,3 +1,5 @@
+.. _3-ExtendASP-integration:
+
 ExtendASP integration
 =====================
 

@@ -1,3 +1,5 @@
+.. _1-Start-a-Trial-with-Hosted-Cloud:
+
 Start a Trial with Hosted Cloud
 ===============================
 

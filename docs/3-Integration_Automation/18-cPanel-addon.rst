@@ -1,3 +1,5 @@
+.. _3-cPanel-addon:
+
 cPanel addon
 ============
 

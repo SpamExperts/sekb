@@ -1,3 +1,5 @@
+.. _2-Local-Cloud-MX-Records:
+
 Local Cloud MX Records
 ======================
 

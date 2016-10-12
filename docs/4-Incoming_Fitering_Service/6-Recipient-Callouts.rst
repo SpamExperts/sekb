@@ -1,3 +1,5 @@
+.. _4-Recipient-Callouts:
+
 Recipient Callouts
 ==================
 

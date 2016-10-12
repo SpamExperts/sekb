@@ -1,3 +1,5 @@
+.. _7-How-to-count-usersordomains-from-SpamPanel:
+
 How to count users/domains from SpamPanel
 =========================================
 

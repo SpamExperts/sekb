@@ -1,3 +1,5 @@
+.. _3-HostBill-Integration:
+
 HostBill Integration
 ====================
 

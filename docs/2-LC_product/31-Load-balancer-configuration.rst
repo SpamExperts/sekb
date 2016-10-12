@@ -1,3 +1,5 @@
+.. _2-Load-balancer-configuration:
+
 Load balancer configuration
 ===========================
 

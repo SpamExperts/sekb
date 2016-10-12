@@ -1,3 +1,5 @@
+.. _3-MachPanel-addon:
+
 MachPanel addon
 ===============
 

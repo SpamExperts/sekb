@@ -1,3 +1,5 @@
+.. _4-Report-Spam:
+
 Report Spam
 ===========
 

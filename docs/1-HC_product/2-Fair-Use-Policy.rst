@@ -1,3 +1,5 @@
+.. _1-Fair-Use-Policy:
+
 Fair Use Policy
 ===============
 

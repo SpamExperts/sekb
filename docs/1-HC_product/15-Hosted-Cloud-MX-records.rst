@@ -1,3 +1,5 @@
+.. _1-Hosted-Cloud-MX-records:
+
 Hosted Cloud MX records
 =======================
 

@@ -1,3 +1,5 @@
+.. _6-Microsoft-Exchange-internal-email-archiving:
+
 Microsoft Exchange internal email archiving
 ===========================================
 

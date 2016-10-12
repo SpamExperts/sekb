@@ -1,3 +1,5 @@
+.. _8-SpamExperts-Control-Panel-Email-User-Level:
+
 SpamExperts Control Panel Email-User Level
 ==========================================
 

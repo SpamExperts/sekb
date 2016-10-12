@@ -1,3 +1,5 @@
+.. _3-Odin-Automation-APS-20-addon:
+
 Odin Automation APS 2.0 addon
 =============================
 

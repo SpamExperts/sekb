@@ -1,3 +1,5 @@
+.. _7-Configure-Office-365-with-SpamExperts:
+
 Configure Office 365 with SpamExperts
 =====================================
 

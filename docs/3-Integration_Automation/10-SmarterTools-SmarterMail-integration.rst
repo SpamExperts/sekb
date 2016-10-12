@@ -1,3 +1,5 @@
+.. _3-SmarterTools-SmarterMail-integration:
+
 SmarterTools SmarterMail integration
 ====================================
 

@@ -1,3 +1,5 @@
+.. _7--SpamExperts-Hosting-Partner-Program-HPP-:
+
 SpamExperts Hosting Partner Program (HPP)
 =========================================
 

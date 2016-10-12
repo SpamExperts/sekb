@@ -1,3 +1,5 @@
+.. _3-Odin-Automation-APS-12-addon:
+
 Odin Automation APS 1.2 addon
 =============================
 

@@ -1,3 +1,5 @@
+.. _4-What-do-I-do-when-I-receive-Spam:
+
 What do I do when I receive Spam?
 =================================
 

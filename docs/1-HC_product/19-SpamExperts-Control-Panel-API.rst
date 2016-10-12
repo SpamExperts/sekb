@@ -1,3 +1,5 @@
+.. _1-SpamExperts-Control-Panel-API:
+
 SpamExperts Control Panel API
 =============================
 

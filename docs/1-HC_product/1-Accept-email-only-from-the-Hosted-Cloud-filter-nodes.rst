@@ -1,3 +1,5 @@
+.. _1-Accept-email-only-from-the-Hosted-Cloud-filter-nodes:
+
 Accept email only from the Hosted Cloud filter nodes
 ====================================================
 

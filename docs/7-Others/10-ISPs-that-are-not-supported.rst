@@ -1,3 +1,5 @@
+.. _7-ISPs-that-are-not-supported:
+
 ISPs that are not supported
 ===========================
 

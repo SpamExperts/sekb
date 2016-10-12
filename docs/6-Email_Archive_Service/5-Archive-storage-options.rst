@@ -1,3 +1,5 @@
+.. _6-Archive-storage-options:
+
 Archive storage options
 =======================
 

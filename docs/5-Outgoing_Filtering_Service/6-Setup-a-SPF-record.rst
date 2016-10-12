@@ -1,3 +1,5 @@
+.. _5-Setup-a-SPF-record:
+
 Setup a SPF record
 ==================
 

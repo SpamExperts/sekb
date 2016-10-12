@@ -1,3 +1,5 @@
+.. _4-View-email-headers:
+
 View email headers
 ==================
 

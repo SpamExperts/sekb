@@ -1,3 +1,5 @@
+.. _3-Open-Xchange-integration:
+
 Open-Xchange integration
 ========================
 

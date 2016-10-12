@@ -1,3 +1,5 @@
+.. _7-Add-Sub-Admin-Accounts:
+
 Add Sub-Admin Accounts
 ======================
 

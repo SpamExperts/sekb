@@ -1,3 +1,5 @@
+.. _3-Software-API:
+
 Software API
 ============
 

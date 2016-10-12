@@ -1,3 +1,5 @@
+.. _3-H-Sphere-addon:
+
 H-Sphere addon
 ==============
 

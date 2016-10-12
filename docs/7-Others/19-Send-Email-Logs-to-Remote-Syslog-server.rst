@@ -1,3 +1,5 @@
+.. _7-Send-Email-Logs-to-Remote-Syslog-server:
+
 Send Email Logs to Remote Syslog server
 =======================================
 

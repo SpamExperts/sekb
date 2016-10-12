@@ -1,3 +1,5 @@
+.. _3-RoundCube-Integration-with-SpamExperts:
+
 RoundCube Integration with SpamExperts
 ======================================
 

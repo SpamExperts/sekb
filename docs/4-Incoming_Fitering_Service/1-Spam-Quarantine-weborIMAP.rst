@@ -1,3 +1,5 @@
+.. _4-Spam-Quarantine-weborIMAP:
+
 Spam Quarantine (web/IMAP)
 ==========================
 

@@ -1,3 +1,5 @@
+.. _6-Exchange-Journaling:
+
 Exchange Journaling
 ===================
 

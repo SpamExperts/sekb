@@ -1,3 +1,5 @@
+.. _3-WHMCS-addon:
+
 WHMCS addon
 ===========
 

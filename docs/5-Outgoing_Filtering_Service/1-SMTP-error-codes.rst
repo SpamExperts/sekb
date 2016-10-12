@@ -1,3 +1,5 @@
+.. _5-SMTP-error-codes:
+
 SMTP error codes
 ================
 

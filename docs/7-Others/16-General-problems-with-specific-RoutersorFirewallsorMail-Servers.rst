@@ -1,3 +1,5 @@
+.. _7-General-problems-with-specific-RoutersorFirewallsorMail-Servers:
+
 General problems with specific Routers/Firewalls/Mail Servers
 =============================================================
 

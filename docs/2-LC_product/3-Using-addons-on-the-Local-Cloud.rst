@@ -1,3 +1,5 @@
+.. _2-Using-addons-on-the-Local-Cloud:
+
 Using-addons-on-the-Local-Cloud
 ===============================
 

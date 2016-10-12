@@ -1,3 +1,5 @@
+.. _5-Outgoing-User-Settings:
+
 Outgoing User Settings
 ======================
 

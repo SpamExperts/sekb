@@ -1,3 +1,5 @@
+.. _4-Classifications:
+
 Classifications
 ===============
 

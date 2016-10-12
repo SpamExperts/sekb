@@ -1,3 +1,5 @@
+.. _7-Ensure-proper-delivery-to-my-destination-server:
+
 Ensure proper delivery to my destination server
 ===============================================
 

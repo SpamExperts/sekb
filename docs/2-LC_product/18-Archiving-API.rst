@@ -1,3 +1,5 @@
+.. _2-Archiving-API:
+
 Archiving API
 =============
 

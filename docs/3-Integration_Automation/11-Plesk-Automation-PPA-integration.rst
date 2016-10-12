@@ -1,3 +1,5 @@
+.. _3-Plesk-Automation-PPA-integration:
+
 Plesk Automation (PPA) integration
 ==================================
 

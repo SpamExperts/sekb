@@ -1,3 +1,5 @@
+.. _4-Mailapp-Report-Spam-Tool---Apple-OSX:
+
 Mail.app Report Spam Tool - Apple OSX
 =====================================
 

@@ -1,3 +1,5 @@
+.. _3-Hosting-Controller-Integration:
+
 Hosting Controller Integration
 ==============================
 

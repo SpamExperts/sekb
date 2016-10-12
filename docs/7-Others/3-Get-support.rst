@@ -1,3 +1,5 @@
+.. _7-Get-support:
+
 Get support
 ===========
 

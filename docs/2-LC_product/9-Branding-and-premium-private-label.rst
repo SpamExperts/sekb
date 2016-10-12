@@ -1,3 +1,5 @@
+.. _2-Branding-and-premium-private-label:
+
 Branding & (premium) private label
 ==================================
 

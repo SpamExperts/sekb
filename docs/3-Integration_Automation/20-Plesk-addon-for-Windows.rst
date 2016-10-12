@@ -1,3 +1,5 @@
+.. _3-Plesk-addon-for-Windows:
+
 Plesk addon (for Windows)
 =========================
 

@@ -1,3 +1,5 @@
+.. _7-Helpful-Troubleshooting-Tips:
+
 Helpful Troubleshooting Tips
 ============================
 

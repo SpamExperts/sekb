@@ -1,3 +1,5 @@
+.. _5-Classifications:
+
 Classifications
 ===============
 

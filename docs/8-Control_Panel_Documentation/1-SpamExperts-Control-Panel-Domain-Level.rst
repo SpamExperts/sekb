@@ -1,3 +1,5 @@
+.. _8-SpamExperts-Control-Panel-Domain-Level:
+
 SpamExperts Control Panel Domain Level
 ======================================
 

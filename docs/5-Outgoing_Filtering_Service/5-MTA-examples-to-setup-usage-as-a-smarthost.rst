@@ -1,3 +1,5 @@
+.. _5-MTA-examples-to-setup-usage-as-a-smarthost:
+
 MTA examples to setup usage as a smarthost
 ==========================================
 

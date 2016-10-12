@@ -1,3 +1,5 @@
+.. _1-Domain-migration-within-Hosted-Cloud:
+
 Domain migration within Hosted Cloud
 ====================================
 

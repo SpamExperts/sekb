@@ -1,3 +1,5 @@
+.. _4-Virus-scanning:
+
 Virus scanning
 ==============
 

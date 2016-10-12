@@ -1,3 +1,5 @@
+.. _7-How-to-pay-my-invoice:
+
 How to pay my invoice
 =====================
 

@@ -1,3 +1,5 @@
+.. _3-ISPManager-addon:
+
 ISPManager addon
 ================
 

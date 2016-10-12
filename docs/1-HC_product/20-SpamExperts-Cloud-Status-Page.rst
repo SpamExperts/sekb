@@ -1,3 +1,5 @@
+.. _1-SpamExperts-Cloud-Status-Page:
+
 SpamExperts Cloud Status Page
 =============================
 

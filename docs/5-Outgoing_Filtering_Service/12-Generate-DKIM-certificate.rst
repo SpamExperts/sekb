@@ -1,3 +1,5 @@
+.. _5-Generate-DKIM-certificate:
+
 Generate DKIM certificate
 =========================
 

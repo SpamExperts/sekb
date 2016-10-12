@@ -1,3 +1,5 @@
+.. _2-Hardware-Requirements:
+
 Hardware Requirements
 =====================
 

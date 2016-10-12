@@ -1,3 +1,5 @@
+.. _2-Local-Cloud-product-cancellationoruninstallation:
+
 Local Cloud product cancellation/uninstallation
 ===============================================
 

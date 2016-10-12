@@ -1,3 +1,5 @@
+.. _3-Nagios-Plugin-Script:
+
 Nagios Plugin Script
 ====================
 

@@ -1,3 +1,5 @@
+.. _3-Outlook-Email-Addon:
+
 Outlook Email Addon
 ===================
 

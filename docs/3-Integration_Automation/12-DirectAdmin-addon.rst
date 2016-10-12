@@ -1,3 +1,5 @@
+.. _3-DirectAdmin-addon:
+
 DirectAdmin addon
 =================
 

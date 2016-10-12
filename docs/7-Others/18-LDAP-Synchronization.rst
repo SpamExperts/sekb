@@ -1,3 +1,5 @@
+.. _7-LDAP-Synchronization:
+
 LDAP Synchronization
 ====================
 

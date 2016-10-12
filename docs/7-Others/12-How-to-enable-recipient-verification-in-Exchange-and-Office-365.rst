@@ -1,3 +1,5 @@
+.. _7-How-to-enable-recipient-verification-in-Exchange-and-Office-365:
+
 How to enable recipient verification in Exchange and Office 365
 ===============================================================
 

@@ -1,3 +1,5 @@
+.. _1-How-to-Add-a-Domain:
+
 How to Add a Domain
 ===================
 

@@ -1,3 +1,5 @@
+.. _1-Domain-aliasing:
+
 Domain aliasing
 ===============
 

@@ -1,3 +1,5 @@
+.. _1-Periodic-based-Protection-Reports:
+
 Periodic based Protection Reports
 =================================
 

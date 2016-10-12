@@ -1,3 +1,5 @@
+.. _3-Integrating-SpamExperts-into-your-own-software:
+
 Integrating SpamExperts into your own software
 ==============================================
 

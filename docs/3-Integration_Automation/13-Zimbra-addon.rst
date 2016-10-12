@@ -1,3 +1,5 @@
+.. _3-Zimbra-addon:
+
 Zimbra addon
 ============
 

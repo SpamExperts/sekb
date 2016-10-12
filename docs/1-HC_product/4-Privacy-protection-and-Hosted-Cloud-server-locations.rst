@@ -1,3 +1,5 @@
+.. _1-Privacy-protection-and-Hosted-Cloud-server-locations:
+
 Privacy protection and Hosted Cloud server locations
 ====================================================
 

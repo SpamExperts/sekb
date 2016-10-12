@@ -1,3 +1,5 @@
+.. _1-Getting-started-with-email-archiving:
+
 Getting started with email archiving
 ====================================
 

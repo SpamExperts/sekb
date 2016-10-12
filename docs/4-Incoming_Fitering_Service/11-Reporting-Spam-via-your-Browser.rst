@@ -1,3 +1,5 @@
+.. _4-Reporting-Spam-via-your-Browser:
+
 Reporting Spam via your Browser
 ===============================
 

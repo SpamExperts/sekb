@@ -1,3 +1,5 @@
+.. _7-Migration-between-Hosted-Cloud-and-Local-Cloud:
+
 Migration between Hosted Cloud & Local Cloud
 ============================================
 

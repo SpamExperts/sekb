@@ -1,3 +1,5 @@
+.. _1-Changelog:
+
 Changelog
 =========
 

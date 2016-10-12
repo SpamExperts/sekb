@@ -1,3 +1,5 @@
+.. _7-Submit-an-official-complaint:
+
 Submit an official complaint
 ============================
 

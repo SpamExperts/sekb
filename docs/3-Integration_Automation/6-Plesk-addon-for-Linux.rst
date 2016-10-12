@@ -1,3 +1,5 @@
+.. _3-Plesk-addon-for-Linux:
+
 Plesk addon (for Linux)
 =======================
 

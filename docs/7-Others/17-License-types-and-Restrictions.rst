@@ -1,3 +1,5 @@
+.. _7-License-types-and-Restrictions:
+
 License types & Restrictions
 ============================
 

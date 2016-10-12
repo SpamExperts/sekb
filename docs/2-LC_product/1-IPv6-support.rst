@@ -1,3 +1,5 @@
+.. _2-IPv6-support:
+
 IPv6 support
 ============
 

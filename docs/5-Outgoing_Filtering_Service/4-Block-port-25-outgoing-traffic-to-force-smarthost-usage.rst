@@ -1,3 +1,5 @@
+.. _5-Block-port-25-outgoing-traffic-to-force-smarthost-usage:
+
 Block port 25 outgoing traffic to force smarthost usage
 =======================================================
 

@@ -1,3 +1,5 @@
+.. _2-How-to-Proactively-Block-Dangerous-Attachments:
+
 How to Proactively Block Dangerous Attachments
 ==============================================
 

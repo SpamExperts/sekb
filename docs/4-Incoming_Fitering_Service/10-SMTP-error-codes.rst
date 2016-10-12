@@ -1,3 +1,5 @@
+.. _4-SMTP-error-codes:
+
 SMTP error codes
 ================
 

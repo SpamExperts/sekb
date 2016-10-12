@@ -1,3 +1,5 @@
+.. _1-Configure-Thunderbird-to-access-the-IMAP-quarantine:
+
 Configure Thunderbird to access the IMAP quarantine
 ===================================================
 

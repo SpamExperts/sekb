@@ -1,3 +1,5 @@
+.. _4-Test-my-server-is-correctly-accepting-mail:
+
 Test my server is correctly accepting mail
 ==========================================
 

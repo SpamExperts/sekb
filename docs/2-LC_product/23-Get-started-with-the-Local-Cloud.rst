@@ -1,3 +1,5 @@
+.. _2-Get-started-with-the-Local-Cloud:
+
 Get started with the Local Cloud
 ================================
 

@@ -1,3 +1,5 @@
+.. _7-Upgrade-my-Reseller-Package:
+
 Upgrade my Reseller Package
 ===========================
 

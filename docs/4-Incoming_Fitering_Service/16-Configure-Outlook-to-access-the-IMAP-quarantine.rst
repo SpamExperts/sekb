@@ -1,3 +1,5 @@
+.. _4-Configure-Outlook-to-access-the-IMAP-quarantine:
+
 Configure Outlook to access the IMAP quarantine
 ===============================================
 

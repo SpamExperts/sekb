@@ -1,3 +1,5 @@
+.. _6-Archiving-legislation-and-compliance:
+
 Archiving legislation and compliance
 ====================================
 

@@ -1,3 +1,5 @@
+.. _6-Archive-historical-data-import:
+
 Archive historical data import
 ==============================
 

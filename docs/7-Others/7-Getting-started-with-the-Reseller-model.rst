@@ -1,3 +1,5 @@
+.. _7-Getting-started-with-the-Reseller-model:
+
 Getting started with the Reseller model
 =======================================
 

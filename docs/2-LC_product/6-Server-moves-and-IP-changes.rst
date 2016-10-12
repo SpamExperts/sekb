@@ -1,3 +1,5 @@
+.. _2-Server-moves-and-IP-changes:
+
 Server moves and IP changes
 ===========================
 

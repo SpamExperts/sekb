@@ -1,3 +1,5 @@
+.. _7-Reselling-SpamExperts-Services:
+
 Reselling SpamExperts Services
 ==============================
 

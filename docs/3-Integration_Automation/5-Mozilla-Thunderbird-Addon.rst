@@ -1,3 +1,5 @@
+.. _3-Mozilla-Thunderbird-Addon:
+
 Mozilla Thunderbird Addon
 =========================
 

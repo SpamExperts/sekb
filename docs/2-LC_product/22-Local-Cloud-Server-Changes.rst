@@ -1,3 +1,5 @@
+.. _2-Local-Cloud-Server-Changes:
+
 Local Cloud Server Changes
 ==========================
 

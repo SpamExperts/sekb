@@ -1,3 +1,5 @@
+.. _7-What-is-spam-and-who-sends-it:
+
 What is spam & who sends it?
 ============================
 

@@ -1,3 +1,5 @@
+.. _8-SpamExperts-Control-Panel-Administrator-Level:
+
 SpamExperts Control Panel Administrator Level
 =============================================
 
