@@ -1,0 +1,376 @@
+Changelog 2009 - 2011
+=====================
+
+Build 43533 (2011-12-29)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Software: Filtering technology updates and adjustments
+-  Spampanel: Pagination of bandwidth overview
+-  Spampanel: Locked user table information improved
+-  Spampanel: Outgoing user limits information improved
+-  Spampanel: Logo upload for protection report fix
+
+Build 43397 (2011-12-22)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Software: CRM114 update protection against network timeouts
+-  Software: IMAP quarantine expiry improvements
+-  Software: Automatically activated user reports inherit domain
+   settings
+-  Software: Filtering technology updates and adjustments
+-  Spampanel: Caching speed improvements
+-  Spampanel: Removal of time selection from bandwidth overview
+-  Spampanel: Optional domain selection when editing resellers
+-  Spampanel: New Spampanel API call to get the role of the user
+-  Spampanel: Support for comma in reason field IP whitelist/blacklist
+-  Spampanel: Search field contents trimmed
+
+Build 43266 (2011-12-15)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Software: Also check the From: header for blacklisted senders
+-  Software: IMAP quarantine expiry improvements
+-  Software: Filtering technology updates and adjustments
+-  Software: Callout-cache clearing permission bug fix
+-  Spampanel: Sort global quarantine date selector
+-  Spampanel: Bug fix for queue reason duplication
+
+Build 43014 (2011-12-08)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Software: Bug fix for 2-digit date header parsing
+-  Software: Increased logging for domains with rejection disabled
+-  Spampanel: CSV webinterface user import quarantine password fix
+-  Spampanel: CSV outgoing user import fix
+-  Spampanel: Stop updating administrator contact for every reseller
+   change
+
+Build 42901 (2011-12-01)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Spampanel: Allow to disable access to the user profile page
+-  Spampanel: Fix so duplicate error messages should only show once
+-  Spampanel: Redirect loop fixed with the default domain settings page
+-  Spampanel: Outgoing log search for smarthost criteria fixed
+-  Spampanel: Timezone issue with log search results fixed
+-  Spampanel: CSV webinterface user import quarantine password fix
+
+Build 42703 (2011-11-24)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Spampanel: Split up of calls with multiple domains to improve support
+   for actions on a large number of domains
+-  Spampanel: No more admin users created for software API
+   authentications
+-  Spampanel: Improved handling of temporary issues with quarantine
+   server
+-  Spampanel: Caching issue fixed after removing domain
+-  Spampanel: Possibility added to disable the user profile option in
+   Spampanel
+-  Spampanel API: /api/domain/add/ response change for existing domains
+   from "The domain 'same.com' is missing on this server" to "Domain
+   already exists"
+-  Software: User protection report show graphs with user data instead
+   of domain data
+-  POA APS add-on: Support added to enable/disable the webinterface
+   control panel access (depending on a resource setting)
+-  cPanel add-on: We plan to release the new version 3 as automatic
+   stable version update on December 12. For manual upgrade instructions
+   please carefully read
+   the \ `KB <https://my.spamexperts.com/kb/133/Cpanel-addon.html>`__.
+
+Build 42562 (2011-11-17)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Spampanel: Added incoming cluster statistics
+-  Spampanel: IP whitelist bug fix check for small subnets
+-  Spampanel: Bandwidth overview bug fix preventing devision by zero and
+   sorting improvement
+-  Spampanel: More clear notification for open-relay status destination
+   route
+-  Spampanel: Log search exclude live-results by default unless
+   specifically requested
+-  Spampanel: Warning when recipient protection report has no associated
+   template
+-  Software: Alias adding/removing protection against call timeout
+-  Software: Archiving improvement handling corrupted email headers
+-  Software: Improved handling of .docx attachments
+-  Software: Sender whitelist bug fix matching all email when specific
+   domains were whitelisted
+
+Build 42406 (2011-11-10)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Spampanel: Strip whitespaces in log search for IPs
+-  Spampanel: Bandidth overview date bug fix
+-  Spampanel: Version number adjustment to exclude old versioning
+-  Software: Expiry of global folders
+-  Filtering: SPF response link changed from openspf.org to openspf.net
+-  API: Queue reason retrieval improved support for outgoing messages
+-  API: Log search using IP and predicate bug fix
+
+Build 42274 (2011-11-03)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Spampanel: cookie lifetime improvements
+-  Spampanel: domain admin contact set to reseller contact
+-  Spampanel: domain statistics fix to only show selected period
+-  Spampanel: bridge login support for changing languages
+-  Spampanel: "Required from" outgoing field not wrongly prefilled with
+   IP
+-  Spampanel: Outgoing delivery queue improvements
+-  Filtering: Engine update
+
+Build 42133 (2011-10-27)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Spampanel: speed improvements periodic user report page
+-  Spampanel: Allow to select a custom update day/time (takes effect
+   AFTER the first upcoming update)
+-  Spampanel: Improvements to domain caching system
+-  Spampanel: Bug fix when applying reseller protection report templates
+-  Spampanel API: Properly deprecation of
+   old /api/domainuser/add/username/ call
+-  API: bug fix in api\_find\_messages with predicate OR and a
+   sender\_host and sender\_ip
+-  API: bug fix in api\_find\_messages to correctly use UTC for the "to"
+   period
+-  Disabling of quarantine quota checks to reduce master load
+-  Change of versioning to build number
+
+Version 2.11 (2011-09)
+~~~~~~~~~~~~~~~~~~~~~~
+
+-  Option to "Redeliver" emails from the Archive product
+-  Archive browsing speed improvements
+-  Archive search results sorting options
+-  Delivery queue page sorting options
+-  Spampanel domain statistics date range oddities improvements
+-  Spampanel username prefilling for links in protection reports
+-  All software API calls now consistently use UTC timezone for both
+   input and output
+-  Depreciation of api\_statistics and new separate calls for the
+   statistical information (deprecated calls remain available up to 4
+   months)
+-  Depreciation api\_get\_log and api\_get\_outgoing\_log calls
+   (deprecated calls remain available up to 4 months)
+-  Depreciation api\_bandwidth\_estimate (deprecated calls remain
+   available up to 4 months)
+-  Logging system improvements
+-  Performance and filtering improvements
+-  Debian (6.0) Squeeze compatibility (upgrades to Squeeze will be
+   communicated separately)
+
+Version 2.10 (2011-05)
+~~~~~~~~~~~~~~~~~~~~~~
+
+-  Firewall changes: Please make sure 6568 (TCP/UDP) and 30443 (TCP) are
+   open if you run an external firewall!
+-  Archiving: New product release! Ability to archive incoming and
+   outgoing emails. Indexed search to easily navigate through the
+   archived emails
+-  API/webinterface: Extended SpamPanel API
+-  API/webinterface: Auto-activate protection report for valid email
+   recipients
+-  API/webinterface: Allow for real-time log-searching (without
+   migration delay)
+-  API/webinterface: SSH whitelist IPv6 range support
+-  API/webinterface: Show reason for queuing email
+-  API/webinterface: Logging of 5xx rejection response destination
+   server
+-  API/webinterface: Protection report override default URL with CNAME
+-  API/webinterface: Logging of delivery to destination server
+-  API/webinterface: Log the method of whitelisted messages
+-  API/webinterface: Time-zone setting per-domain for protection report
+-  API/webinterface: Option to disable enforced SPF checks
+-  API/webinterface: Option to disable fixed line-length
+-  API: Protection report configurable timestamp
+-  API: Support for default values recipient reports
+-  API: Depreciation of "api\_weekly\_totals", use "api\_statistics"
+   instead
+-  Webinterface: Domain statistics enhancements
+-  Webinterface: Global log search
+-  Webinterface: Expose valid local characters regexp
+-  Webinterface: Expose available quarantine space
+-  Webinterface: Configure available products per reseller
+-  Webinterface: Branded password reminders
+-  Webinterface: Domain administrator configuration
+-  Webinterface: Product availability between reseller and domains
+   configuration
+-  Webinterface: Option to list bandwidth usage per-reseller
+-  Webinterface: User profile icon
+-  Webinterface: Product management for domain users
+-  Webinterface: Option to delete queued messages
+-  Webinterface: Selectively enable active languages
+-  Webinterface: Set maximum days to retry for queued outgoing email
+-  Webinterface: Allow to rename the outgoing user password
+-  Webinterface: Variable pagination count
+-  Webinterface: Set default activated domain products
+-  Webinterface: Set maximum days to retry for queued incoming email
+-  Webinterface: Support for Cyrillic domain names
+-  Webinterface: Set date format protection reports
+-  Webinterface: Admin overview of all outgoing users
+-  Webinterface: Reseller branding favicon choice
+-  Webinterface: Option to specify reseller MX records
+-  Webinterface: Possibility to edit report recipients
+-  Webinterface: CSV import webinterface users
+-  Webinterface: Outgoing user pagination
+-  Headers: Drop of X-BRANDNAME-Score header
+-  General: Significant improvements of various filtering engines
+-  General: Restructuring of logging backend
+
+Version 2.9 (2010-12)
+~~~~~~~~~~~~~~~~~~~~~
+
+-  Firewall changes: Please open: outgoing port 2703 (TCP),
+   incoming/outgoing port 113 (TCP), incoming/outgoing ports (TCP/UDP)
+   10045-10049 (`Firewall
+   usage <http://spamexperts.com/wiki/index.php?title=Firewall_usage>`__)
+-  Incoming/API/webinterface: Support for a local-recipient database to
+   skip callouts
+-  Incoming/API/webinterface: Option to only sent quarantine report if
+   there are messages
+-  Incoming/API/webinterface: Configure the queue give up time
+-  Incoming/API: IMAP quarantine per-user
+-  Incoming/API: Option to disable logging for invalid recipients
+-  Outgoing/API/webinterface: Outgoing delivery queue (admin only)
+-  Outgoing/API/webinterface: Download raw log
+-  Outgoing/webinterface: Set maximum number of daily recipients
+-  Outgoing/webinterface: Set maximum bounces
+-  Outgoing: Removal of recipient callouts
+-  API/webinterface: SSL CSR/key generation
+-  API/webinterface: SSH whitelist subnet support
+-  API/webinterface: Raw log download human readable IPs
+-  API/webinterface: SSH whitelist IPv6 support
+-  API/webinterface: Incoming and outgoing queue count added to
+   api\_server\_status()
+-  API/webinterface: Option to delete queued message(s)
+-  API: api\_find\_messages changed to use dates instead of days
+-  API: api\_server\_statistics() deprecated
+-  Webinterface: Column sorting
+-  Webinterface: CSV upload for protection report recipients
+-  Webinterface: Spampanel API calls for reseller management
+-  Webinterface: API for resellers to add/remove domains
+-  Webinterface: Per-domain product availability management
+-  Webinterface: API for domain binding/unbinding to resellers
+-  Webinterface: Reseller multi-domain settings change
+-  Webinterface: Additional timezones
+-  Webinterface: IMAP/SMTP SSL certificate upload
+-  Webinterface: Logging expiry/archival control
+-  Webinterface: Custom logout URL authtickets
+-  Webinterface: Access different user-levels directly as admin
+-  Webinterface: Formatting of delivery queue time
+-  Webinterface: Protection report template restructuring
+-  Webinterface: Support for & (ampersand) character for recipient
+   whitelist
+-  Webinterface: Option to skip all filters for an IP
+-  Webinterface: Reseller premium whitelabel branding
+-  Webinterface: Outgoing spam quarantine
+-  General: Filtering and performance improvements
+
+Version 2.8 (2010-10)
+~~~~~~~~~~~~~~~~~~~~~
+
+-  Incoming/API: Option to disable logging of invalid recipients
+-  Incoming/API: Bandwidth statistics recording changed from 60 days to
+   24 hourly, 7 daily, 4 weekly, 12 monthly, and 5 yearly reports
+-  Incoming/API: IP whitelist option to skip all filters
+-  Incoming/API: Support for local mirror of valid recipients
+-  Incoming/API: Set maximum allowd MIME-parts (default 40)
+-  Outgoing/API: Set a percentage of allowed invalid recipients
+   (set\_invalid\_recipient\_limit/get\_invalid\_recipient\_limit)
+-  Incoming/Webinterface: Per-domain branding for whitelabel premium
+   users (domain)
+-  Incoming/Webinterface: CSV domain upload (resellers)
+-  Incoming/Webinterface: (De)select all messages in quarantine (domain)
+-  Outgoing/Webinterface: Option to block/unblock spam (outgoing user)
+-  API: Errors/warnings translated
+-  API: Help translated
+-  Webinterface: Automatic emails translated (domain)
+-  Webinterface: Log search specify time span (domain)
+-  Webinterface: Quick domain jump to easily access domain (admin)
+-  Webinterface: Hide permissions that have no effect (admin)
+-  Webinterface: Include reseller name in domain overview (admin)
+-  One-click-login: Enabled/disable HTTPS
+-  General: Many code and performance improvements
+
+Version 2.7 (2010-08)
+~~~~~~~~~~~~~~~~~~~~~
+
+-  API/webinterface: View the content of queued messages
+-  API/webinterface: Ratelimiting exposed in logging details
+-  Webinterface: Clear callout cache for all domains
+-  Webinterface: API user management
+-  Webinterface: Specify a custom from address for lost password emails
+-  Webinterface: Removal of dashboard for incoming default settings
+-  Webinterface: Ability to reset protection report settings to default
+-  Webinterface: Option to specify an email address in the user profile
+-  Webinterface: Sender/recipient white/blacklisted entries paging
+-  Webinterface: Option to clear the webinterface caching
+-  Webinterface: Option to enable/disable the extra spam table in the
+   PDF protection report
+-  Webinterface: Bandwidth overview date selection
+-  Webinterface: US date format/separator option
+-  Webinterface: Support for custom favicon
+-  Webinterface: Language setting per-domain
+-  API: api\_help restructuring
+-  API: Ability to specify an external backup server
+-  API: Custom logging/archiving number of days per domain
+-  API: Retrieve a list of per-recipient protection report users
+-  SSH: Access firewalled by default, IPs can be added using the
+   webinterface/API
+-  Protection report: Maximum number of entries enforced
+-  Outgoing: Unlock link for locked users
+-  Software: Positive recipient callouts are cached for 96 hours (4
+   days)
+-  General: Many code and performance improvements
+
+Version 2.6 (2010-05)
+~~~~~~~~~~~~~~~~~~~~~
+
+-  API: 2.6 API changes (not fully backwards compatible)
+-  API: Option to clear the recipient callout cache per-domain
+-  API/webinterface: New reseller level
+-  API/webinterface: Allow to export all domains
+-  Webinterface: New one-click-login script (available from Settings
+   page after update)
+-  Webinterface: Outgoing bandwidth overview
+-  Webinterface: Remove PHPSESSID from URL (switch to cookies)
+-  Webinterface: Force SSL option
+-  Webinterface: Extensive permission management
+-  Incoming: IP whitelist skip greylisting/content/HELO/sender checks
+-  Incoming: IP whitelist/blacklist support for ranges
+-  Logging: Expose more details about the reason of rejection
+-  Filtering: Skip sender verification for email to unknown recipients
+-  Outgoing: Disable automatic user locking
+-  Outgoing: IP whitelist/blacklist
+-  Outgoing: Log search
+-  Outgoing: Support for IP ranges
+-  Outgoing: Count number of MAIL FROM domains
+
+Version 2.5 (2010-03)
+~~~~~~~~~~~~~~~~~~~~~
+
+-  Others: IPv6 support
+-  Logging: Expose more details about the reason of rejection
+-  Others: Improved IDN domain support
+-  Protection report: Default HTML email report instead of (optional)
+   PDF report
+-  Filtering: Support for IP whitelist ranges
+-  Filtering: Always block viruses, also with quarantine disabled
+-  API: Domain/route changes to support IPv6 addresses
+-  API: api\_list\_all\_outgoing\_users() includes domain
+-  API: Calls to manage quarantine disk quotas per domain
+-  API: Call to set the quarantine expiry (in days) per domain
+-  API: Removal of get\_password function
+-  Performance: Many performance improvements
+-  Security: User passwords stored hashed
+
+Version 2.4 (2009-12)
+~~~~~~~~~~~~~~~~~~~~~
+
+-  Performance: Many performance improvements
+-  Webinterface: New layout!
+-  Webinterface: Custom logout URL
+-  Webinterface: Default language option
+-  API: New call (outgoing) api\_list\_
